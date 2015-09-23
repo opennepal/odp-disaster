@@ -1,0 +1,178 @@
+District,Relief Material,In Quintal/Ton
+Sindhupalchowk,Tent,2686
+Sindhupalchowk,Tarpaulin,94305
+Sindhupalchowk,Blankets,26316
+Sindhupalchowk,Mattress,272
+Sindhupalchowk,Rice,16863
+Sindhupalchowk,Sugar,122
+Sindhupalchowk,Salt,104
+Sindhupalchowk,Beaten rice,1313
+Sindhupalchowk,Noodle,27015
+Sindhupalchowk,Biscuit,23425
+Sindhupalchowk,Carton of Water,3462
+Sindhupalchowk,Others,14.5
+Rasuwa,Tent,1007
+Rasuwa,Tarpaulin,17265
+Rasuwa,Blankets,2347
+Rasuwa,Rice,2913
+Rasuwa,Sugar,38
+Rasuwa,Salt,77
+Rasuwa,Beaten rice,323.5
+Rasuwa,Noodle,6221
+Rasuwa,Biscuit,5801
+Rasuwa,Carton of Water,80
+Rasuwa,Others,54
+Dhading,Tent,105
+Dhading,Tarpaulin,39294
+Dhading,Blankets,2599
+Dhading,Rice,7572
+Dhading,Sugar,69.5
+Dhading,Salt,75.4
+Dhading,Beaten rice,520
+Dhading,Noodle,8040
+Dhading,Biscuit,6778
+Dhading,Carton of Water,1520
+Dhading,Others,56
+Kavre,Tent,766
+Kavre,Tarpaulin,72008
+Kavre,Blankets,30225
+Kavre,Mattress,243
+Kavre,Rice,7329
+Kavre,Sugar,108
+Kavre,Salt,90
+Kavre,Beaten rice,603
+Kavre,Noodle,15605
+Kavre,Biscuit,8365
+Kavre,Carton of Water,1804
+Kavre,Others,115
+Nuwakot,Tent,549
+Nuwakot,Tarpaulin,53245
+Nuwakot,Blankets,5818
+Nuwakot,Mattress,304
+Nuwakot,Rice,8391
+Nuwakot,Sugar,50.5
+Nuwakot,Salt,74
+Nuwakot,Beaten rice,837
+Nuwakot,Noodle,14090
+Nuwakot,Biscuit,4021
+Nuwakot,Carton of Water,2598
+Nuwakot,Others,5
+Sindhuli,Tent,507
+Sindhuli,Tarpaulin,31690
+Sindhuli,Blankets,14879
+Sindhuli,Mattress,734
+Sindhuli,Rice,756
+Sindhuli,Sugar,22.5
+Sindhuli,Salt,26
+Sindhuli,Beaten rice,9
+Sindhuli,Noodle,1370
+Sindhuli,Biscuit,2540
+Sindhuli,Carton of Water,540
+Sindhuli,Others,58
+Okhaldhunga,Tent,143
+Okhaldhunga,Tarpaulin,23060
+Okhaldhunga,Blankets,6843
+Okhaldhunga,Mattress,144
+Okhaldhunga,Rice,729.5
+Okhaldhunga,Sugar,0.27
+Okhaldhunga,Salt,13
+Okhaldhunga,Beaten rice,20.7
+Okhaldhunga,Noodle,3500
+Okhaldhunga,Biscuit,755
+Okhaldhunga,Carton of Water,24
+Okhaldhunga,Others,1
+Ramechhap,Tent,1012
+Ramechhap,Tarpaulin,59478
+Ramechhap,Blankets,11541
+Ramechhap,Rice,1208
+Ramechhap,Sugar,56
+Ramechhap,Salt,16
+Ramechhap,Beaten rice,153.5
+Ramechhap,Noodle,5059
+Ramechhap,Biscuit,1974
+Ramechhap,Carton of Water,322
+Ramechhap,Others,2620
+Gorkha,Tent,120
+Gorkha,Tarpaulin,57363
+Gorkha,Blankets,2971
+Gorkha,Mattress,70
+Gorkha,Rice,9371
+Gorkha,Sugar,104.5
+Gorkha,Salt,157
+Gorkha,Beaten rice,499
+Gorkha,Noodle,12628
+Gorkha,Biscuit,12792
+Gorkha,Carton of Water,1801
+Gorkha,Others,7
+Dolakha,Tent,2934
+Dolakha,Tarpaulin,102492
+Dolakha,Blankets,21048
+Dolakha,Mattress,150
+Dolakha,Rice,2791.4
+Dolakha,Sugar,46
+Dolakha,Salt,64
+Dolakha,Beaten rice,446.7
+Dolakha,Noodle,24771
+Dolakha,Biscuit,4747
+Dolakha,Carton of Water,844
+Dolakha,Others,30
+Makwanpur,Tent,618
+Makwanpur,Tarpaulin,19511
+Makwanpur,Blankets,2904
+Makwanpur,Rice,413
+Makwanpur,Sugar,20
+Makwanpur,Salt,24.5
+Makwanpur,Beaten rice,90
+Makwanpur,Noodle,2230
+Makwanpur,Biscuit,1240
+Makwanpur,Carton of Water,110
+Makwanpur,Others,0
+Kathmandu,Tent,191
+Kathmandu,Tarpaulin,113588
+Kathmandu,Blankets,1632
+Kathmandu,Mattress,263
+Kathmandu,Rice,4717
+Kathmandu,Sugar,35
+Kathmandu,Salt,152
+Kathmandu,Beaten rice,747
+Kathmandu,Noodle,24722
+Kathmandu,Biscuit,14446
+Kathmandu,Carton of Water,21983
+Kathmandu,Others,70
+Lalitpur,Tent,85
+Lalitpur,Tarpaulin,47798
+Lalitpur,Blankets,1005
+Lalitpur,Rice,1424
+Lalitpur,Sugar,21.5
+Lalitpur,Salt,36
+Lalitpur,Beaten rice,523
+Lalitpur,Noodle,12678
+Lalitpur,Biscuit,1970
+Lalitpur,Carton of Water,6917
+Lalitpur,Others,651
+Bhaktapur,Tent,350
+Bhaktapur,Tarpaulin,40174
+Bhaktapur,Blankets,45
+Bhaktapur,Rice,1759
+Bhaktapur,Sugar,23
+Bhaktapur,Salt,36.5
+Bhaktapur,Beaten rice,568
+Bhaktapur,Noodle,18335
+Bhaktapur,Biscuit,6261
+Bhaktapur,Carton of Water,5651
+Bhaktapur,Others,0
+Lamjung,Tent,222
+Lamjung,Tarpaulin,4425
+Lamjung,Rice,325
+Lamjung,Salt,5
+Lamjung,Noodle,3450
+Lamjung,Biscuit,2884
+Lamjung,Carton of Water,10
+Lamjung,Others,0
+Solukhumbu,Tent,1195
+Solukhumbu,Tarpaulin,19658
+Solukhumbu,Salt,8
+Tanahu,Tent,4.05
+Tanahu,Tarpaulin,253
+Others,Tent,375
+Others,Tarpaulin,88521
