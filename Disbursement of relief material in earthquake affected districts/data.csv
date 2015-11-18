@@ -1,751 +1,751 @@
-District,Causalities,In Number
-Sindhupalchowk,Total No. of Houses,66688
-Sindhupalchowk,Total Population,287798
-Sindhupalchowk,Dead Male,1497
-Sindhupalchowk,Dead Female,1943
-Sindhupalchowk,Dead Unknown,0
-Sindhupalchowk,Injured,1571
-Sindhupalchowk,Govt. Houses Fully Destroyed,0
-Sindhupalchowk,Govt. Houses Partially Destroyed,0
-Sindhupalchowk,Public House Fully Destroyed,63885
-Sindhupalchowk,Public House Partially Destroyed,2751
-Kathmandu,Total No. of Houses,436344
-Kathmandu,Total Population,1744240
-Kathmandu,Dead Male,621
-Kathmandu,Dead Female,600
-Kathmandu,Dead Unknown,1
-Kathmandu,Injured,7859
-Kathmandu,Govt. Houses Fully Destroyed,85
-Kathmandu,Govt. Houses Partially Destroyed,277
-Kathmandu,Public House Fully Destroyed,36973
-Kathmandu,Public House Partially Destroyed,50753
-Nuwakot,Total No. of Houses,59215
-Nuwakot,Total Population,277471
-Nuwakot,Dead Male,456
-Nuwakot,Dead Female,625
-Nuwakot,Dead Unknown,0
-Nuwakot,Injured,1052
-Nuwakot,Govt. Houses Fully Destroyed,14
-Nuwakot,Govt. Houses Partially Destroyed,15
-Nuwakot,Public House Fully Destroyed,57943
-Nuwakot,Public House Partially Destroyed,4200
-Dhading,Total No. of Houses,73851
-Dhading,Total Population,336067
-Dhading,Dead Male,340
-Dhading,Dead Female,393
-Dhading,Dead Unknown,0
-Dhading,Injured,1218
-Dhading,Govt. Houses Fully Destroyed,93
-Dhading,Govt. Houses Partially Destroyed,58
-Dhading,Public House Fully Destroyed,43741
-Dhading,Public House Partially Destroyed,18720
-RASUWA,Total No. of Houses,9778
-RASUWA,Total Population,43300
-RASUWA,Dead Male,287
-RASUWA,Dead Female,310
-RASUWA,Dead Unknown,0
-RASUWA,Injured,771
-RASUWA,Govt. Houses Fully Destroyed,0
-RASUWA,Govt. Houses Partially Destroyed,0
-RASUWA,Public House Fully Destroyed,7040
-RASUWA,Public House Partially Destroyed,2410
-Gorkha,Total No. of Houses,66506
-Gorkha,Total Population,271061
-Gorkha,Dead Male,213
-Gorkha,Dead Female,230
-Gorkha,Dead Unknown,0
-Gorkha,Injured,952
-Gorkha,Govt. Houses Fully Destroyed,228
-Gorkha,Govt. Houses Partially Destroyed,37
-Gorkha,Public House Fully Destroyed,44382
-Gorkha,Public House Partially Destroyed,13880
-Bhaktapur,Total No. of Houses,68636
-Bhaktapur,Total Population,304651
-Bhaktapur,Dead Male,118
-Bhaktapur,Dead Female,215
-Bhaktapur,Dead Unknown,0
-Bhaktapur,Injured,2101
-Bhaktapur,Govt. Houses Fully Destroyed,0
-Bhaktapur,Govt. Houses Partially Destroyed,0
-Bhaktapur,Public House Fully Destroyed,18900
-Bhaktapur,Public House Partially Destroyed,9090
-Kavrepalanchowk,Total No. of Houses,80720
-Kavrepalanchowk,Total Population,381937
-Kavrepalanchowk,Dead Male,129
-Kavrepalanchowk,Dead Female,189
-Kavrepalanchowk,Dead Unknown,0
-Kavrepalanchowk,Injured,1179
-Kavrepalanchowk,Govt. Houses Fully Destroyed,0
-Kavrepalanchowk,Govt. Houses Partially Destroyed,0
-Kavrepalanchowk,Public House Fully Destroyed,49933
-Kavrepalanchowk,Public House Partially Destroyed,23714
-Lalitpur,Total No. of Houses,109797
-Lalitpur,Total Population,468132
-Lalitpur,Dead Male,67
-Lalitpur,Dead Female,107
-Lalitpur,Dead Unknown,0
-Lalitpur,Injured,3052
-Lalitpur,Govt. Houses Fully Destroyed,217
-Lalitpur,Govt. Houses Partially Destroyed,198
-Lalitpur,Public House Fully Destroyed,17444
-Lalitpur,Public House Partially Destroyed,8064
-Dolakha,Total No. of Houses,45688
-Dolakha,Total Population,186557
-Dolakha,Dead Male,84
-Dolakha,Dead Female,85
-Dolakha,Dead Unknown,1
-Dolakha,Injured,662
-Dolakha,Govt. Houses Fully Destroyed,28
-Dolakha,Govt. Houses Partially Destroyed,0
-Dolakha,Public House Fully Destroyed,48880
-Dolakha,Public House Partially Destroyed,3120
-Ramechhap,Total No. of Houses,43910
-Ramechhap,Total Population,202646
-Ramechhap,Dead Male,16
-Ramechhap,Dead Female,23
-Ramechhap,Dead Unknown,0
-Ramechhap,Injured,135
-Ramechhap,Govt. Houses Fully Destroyed,54
-Ramechhap,Govt. Houses Partially Destroyed,56
-Ramechhap,Public House Fully Destroyed,26743
-Ramechhap,Public House Partially Destroyed,13173
-Makawanpur,Total No. of Houses,86127
-Makawanpur,Total Population,420477
-Makawanpur,Dead Male,16
-Makawanpur,Dead Female,17
-Makawanpur,Dead Unknown,0
-Makawanpur,Injured,229
-Makawanpur,Govt. Houses Fully Destroyed,46
-Makawanpur,Govt. Houses Partially Destroyed,177
-Makawanpur,Public House Fully Destroyed,15012
-Makawanpur,Public House Partially Destroyed,17042
-Solukhumbu,Total No. of Houses,23785
-Solukhumbu,Total Population,105886
-Solukhumbu,Dead Male,15
-Solukhumbu,Dead Female,5
-Solukhumbu,Dead Unknown,0
-Solukhumbu,Injured,100
-Solukhumbu,Govt. Houses Fully Destroyed,75
-Solukhumbu,Govt. Houses Partially Destroyed,142
-Solukhumbu,Public House Fully Destroyed,8555
-Solukhumbu,Public House Partially Destroyed,8828
-Okhaldhunga,Total No. of Houses,32502
-Okhaldhunga,Total Population,147984
-Okhaldhunga,Dead Male,10
-Okhaldhunga,Dead Female,10
-Okhaldhunga,Dead Unknown,0
-Okhaldhunga,Injured,61
-Okhaldhunga,Govt. Houses Fully Destroyed,1
-Okhaldhunga,Govt. Houses Partially Destroyed,191
-Okhaldhunga,Public House Fully Destroyed,10031
-Okhaldhunga,Public House Partially Destroyed,3107
-Sindhuli,Total No. of Houses,57581
-Sindhuli,Total Population,296192
-Sindhuli,Dead Male,5
-Sindhuli,Dead Female,9
-Sindhuli,Dead Unknown,0
-Sindhuli,Injured,231
-Sindhuli,Govt. Houses Fully Destroyed,92
-Sindhuli,Govt. Houses Partially Destroyed,231
-Sindhuli,Public House Fully Destroyed,18197
-Sindhuli,Public House Partially Destroyed,10028
-Chitawan,Total No. of Houses,132462
-Chitawan,Total Population,579984
-Chitawan,Dead Male,6
-Chitawan,Dead Female,4
-Chitawan,Dead Unknown,0
-Chitawan,Injured,143
-Chitawan,Govt. Houses Fully Destroyed,0
-Chitawan,Govt. Houses Partially Destroyed,40
-Chitawan,Public House Fully Destroyed,472
-Chitawan,Public House Partially Destroyed,754
-Sunsari,Total No. of Houses,162407
-Sunsari,Total Population,763487
-Sunsari,Dead Male,2
-Sunsari,Dead Female,7
-Sunsari,Dead Unknown,0
-Sunsari,Injured,35
-Sunsari,Govt. Houses Fully Destroyed,0
-Sunsari,Govt. Houses Partially Destroyed,42
-Sunsari,Public House Fully Destroyed,2
-Sunsari,Public House Partially Destroyed,63
-Parsa,Total No. of Houses,95536
-Parsa,Total Population,601017
-Parsa,Dead Male,1
-Parsa,Dead Female,5
-Parsa,Dead Unknown,0
-Parsa,Injured,50
-Parsa,Govt. Houses Fully Destroyed,0
-Parsa,Govt. Houses Partially Destroyed,12
-Parsa,Public House Fully Destroyed,0
-Parsa,Public House Partially Destroyed,35
-Bara,Total No. of Houses,108635
-Bara,Total Population,687708
-Bara,Dead Male,0
-Bara,Dead Female,5
-Bara,Dead Unknown,0
-Bara,Injured,62
-Bara,Govt. Houses Fully Destroyed,1
-Bara,Govt. Houses Partially Destroyed,0
-Bara,Public House Fully Destroyed,50
-Bara,Public House Partially Destroyed,0
-Lamjung,Total No. of Houses,42079
-Lamjung,Total Population,167724
-Lamjung,Dead Male,3
-Lamjung,Dead Female,2
-Lamjung,Dead Unknown,0
-Lamjung,Injured,40
-Lamjung,Govt. Houses Fully Destroyed,39
-Lamjung,Govt. Houses Partially Destroyed,48
-Lamjung,Public House Fully Destroyed,8472
-Lamjung,Public House Partially Destroyed,8876
-Mahottari,Total No. of Houses,111316
-Mahottari,Total Population,627580
-Mahottari,Dead Male,2
-Mahottari,Dead Female,1
-Mahottari,Dead Unknown,0
-Mahottari,Injured,16
-Mahottari,Govt. Houses Fully Destroyed,10
-Mahottari,Govt. Houses Partially Destroyed,14
-Mahottari,Public House Fully Destroyed,500
-Mahottari,Public House Partially Destroyed,600
-Rautahat,Total No. of Houses,106668
-Rautahat,Total Population,686722
-Rautahat,Dead Male,1
-Rautahat,Dead Female,2
-Rautahat,Dead Unknown,0
-Rautahat,Injured,38
-Rautahat,Govt. Houses Fully Destroyed,0
-Rautahat,Govt. Houses Partially Destroyed,9
-Rautahat,Public House Fully Destroyed,70
-Rautahat,Public House Partially Destroyed,199
-Kaski,Total No. of Houses,125673
-Kaski,Total Population,492098
-Kaski,Dead Male,1
-Kaski,Dead Female,2
-Kaski,Dead Unknown,0
-Kaski,Injured,38
-Kaski,Govt. Houses Fully Destroyed,10
-Kaski,Govt. Houses Partially Destroyed,45
-Kaski,Public House Fully Destroyed,1744
-Kaski,Public House Partially Destroyed,6963
-Morang,Total No. of Houses,213997
-Morang,Total Population,965370
-Morang,Dead Male,1
-Morang,Dead Female,1
-Morang,Dead Unknown,0
-Morang,Injured,59
-Morang,Govt. Houses Fully Destroyed,0
-Morang,Govt. Houses Partially Destroyed,51
-Morang,Public House Fully Destroyed,3
-Morang,Public House Partially Destroyed,112
-Bhojpur,Total No. of Houses,39419
-Bhojpur,Total Population,182459
-Bhojpur,Dead Male,0
-Bhojpur,Dead Female,2
-Bhojpur,Dead Unknown,0
-Bhojpur,Injured,13
-Bhojpur,Govt. Houses Fully Destroyed,0
-Bhojpur,Govt. Houses Partially Destroyed,21
-Bhojpur,Public House Fully Destroyed,1414
-Bhojpur,Public House Partially Destroyed,3513
-Sarlahi,Total No. of Houses,132844
-Sarlahi,Total Population,769729
-Sarlahi,Dead Male,1
-Sarlahi,Dead Female,1
-Sarlahi,Dead Unknown,0
-Sarlahi,Injured,70
-Sarlahi,Govt. Houses Fully Destroyed,7
-Sarlahi,Govt. Houses Partially Destroyed,27
-Sarlahi,Public House Fully Destroyed,0
-Sarlahi,Public House Partially Destroyed,0
-Taplejung,Total No. of Houses,26509
-Taplejung,Total Population,127461
-Taplejung,Dead Male,0
-Taplejung,Dead Female,1
-Taplejung,Dead Unknown,0
-Taplejung,Injured,7
-Taplejung,Govt. Houses Fully Destroyed,0
-Taplejung,Govt. Houses Partially Destroyed,69
-Taplejung,Public House Fully Destroyed,51
-Taplejung,Public House Partially Destroyed,436
-Jhapa,Total No. of Houses,184552
-Jhapa,Total Population,812650
-Jhapa,Dead Male,0
-Jhapa,Dead Female,1
-Jhapa,Dead Unknown,0
-Jhapa,Injured,25
-Jhapa,Govt. Houses Fully Destroyed,0
-Jhapa,Govt. Houses Partially Destroyed,46
-Jhapa,Public House Fully Destroyed,95
-Jhapa,Public House Partially Destroyed,144
-Terhathum,Total No. of Houses,22094
-Terhathum,Total Population,101577
-Terhathum,Dead Male,1
-Terhathum,Dead Female,0
-Terhathum,Dead Unknown,0
-Terhathum,Injured,14
-Terhathum,Govt. Houses Fully Destroyed,0
-Terhathum,Govt. Houses Partially Destroyed,60
-Terhathum,Public House Fully Destroyed,91
-Terhathum,Public House Partially Destroyed,603
-Udayapur,Total No. of Houses,66557
-Udayapur,Total Population,317532
-Udayapur,Dead Male,0
-Udayapur,Dead Female,1
-Udayapur,Dead Unknown,0
-Udayapur,Injured,35
-Udayapur,Govt. Houses Fully Destroyed,52
-Udayapur,Govt. Houses Partially Destroyed,460
-Udayapur,Public House Fully Destroyed,95
-Udayapur,Public House Partially Destroyed,516
-Siraha,Total No. of Houses,1179622
-Siraha,Total Population,637328
-Siraha,Dead Male,0
-Siraha,Dead Female,1
-Siraha,Dead Unknown,0
-Siraha,Injured,39
-Siraha,Govt. Houses Fully Destroyed,0
-Siraha,Govt. Houses Partially Destroyed,20
-Siraha,Public House Fully Destroyed,0
-Siraha,Public House Partially Destroyed,540
-Dhanusha,Total No. of Houses,138249
-Dhanusha,Total Population,754777
-Dhanusha,Dead Male,1
-Dhanusha,Dead Female,0
-Dhanusha,Dead Unknown,0
-Dhanusha,Injured,45
-Dhanusha,Govt. Houses Fully Destroyed,0
-Dhanusha,Govt. Houses Partially Destroyed,8
-Dhanusha,Public House Fully Destroyed,4
-Dhanusha,Public House Partially Destroyed,47
-Nawalparasi,Total No. of Houses,128793
-Nawalparasi,Total Population,643508
-Nawalparasi,Dead Male,0
-Nawalparasi,Dead Female,1
-Nawalparasi,Dead Unknown,0
-Nawalparasi,Injured,41
-Nawalparasi,Govt. Houses Fully Destroyed,0
-Nawalparasi,Govt. Houses Partially Destroyed,14
-Nawalparasi,Public House Fully Destroyed,446
-Nawalparasi,Public House Partially Destroyed,3343
-Palpa,Total No. of Houses,59291
-Palpa,Total Population,261180
-Palpa,Dead Male,0
-Palpa,Dead Female,1
-Palpa,Dead Unknown,0
-Palpa,Injured,16
-Palpa,Govt. Houses Fully Destroyed,2
-Palpa,Govt. Houses Partially Destroyed,24
-Palpa,Public House Fully Destroyed,1434
-Palpa,Public House Partially Destroyed,2665
-Gulmi,Total No. of Houses,64921
-Gulmi,Total Population,280160
-Gulmi,Dead Male,0
-Gulmi,Dead Female,1
-Gulmi,Dead Unknown,0
-Gulmi,Injured,11
-Gulmi,Govt. Houses Fully Destroyed,73
-Gulmi,Govt. Houses Partially Destroyed,271
-Gulmi,Public House Fully Destroyed,2100
-Gulmi,Public House Partially Destroyed,4363
-Baglung,Total No. of Houses,61522
-Baglung,Total Population,268613
-Baglung,Dead Male,0
-Baglung,Dead Female,1
-Baglung,Dead Unknown,0
-Baglung,Injured,14
-Baglung,Govt. Houses Fully Destroyed,2
-Baglung,Govt. Houses Partially Destroyed,4
-Baglung,Public House Fully Destroyed,1773
-Baglung,Public House Partially Destroyed,1963
-Rolpa,Total No. of Houses,43757
-Rolpa,Total Population,224506
-Rolpa,Dead Male,1
-Rolpa,Dead Female,0
-Rolpa,Dead Unknown,0
-Rolpa,Injured,2
-Rolpa,Govt. Houses Fully Destroyed,0
-Rolpa,Govt. Houses Partially Destroyed,6
-Rolpa,Public House Fully Destroyed,62
-Rolpa,Public House Partially Destroyed,159
-Rukum,Total No. of Houses,41856
-Rukum,Total Population,208567
-Rukum,Dead Male,1
-Rukum,Dead Female,0
-Rukum,Dead Unknown,0
-Rukum,Injured,1
-Rukum,Govt. Houses Fully Destroyed,10
-Rukum,Govt. Houses Partially Destroyed,16
-Rukum,Public House Fully Destroyed,136
-Rukum,Public House Partially Destroyed,976
-Panchthar,Total No. of Houses,41196
-Panchthar,Total Population,191817
-Panchthar,Dead Male,0
-Panchthar,Dead Female,0
-Panchthar,Dead Unknown,0
-Panchthar,Injured,9
-Panchthar,Govt. Houses Fully Destroyed,22
-Panchthar,Govt. Houses Partially Destroyed,5
-Panchthar,Public House Fully Destroyed,229
-Panchthar,Public House Partially Destroyed,926
-Ilaam,Total No. of Houses,64502
-Ilaam,Total Population,290254
-Ilaam,Dead Male,0
-Ilaam,Dead Female,0
-Ilaam,Dead Unknown,0
-Ilaam,Injured,10
-Ilaam,Govt. Houses Fully Destroyed,34
-Ilaam,Govt. Houses Partially Destroyed,42
-Ilaam,Public House Fully Destroyed,316
-Ilaam,Public House Partially Destroyed,2032
-Dhankuta,Total No. of Houses,37637
-Dhankuta,Total Population,163412
-Dhankuta,Dead Male,0
-Dhankuta,Dead Female,0
-Dhankuta,Dead Unknown,0
-Dhankuta,Injured,5
-Dhankuta,Govt. Houses Fully Destroyed,0
-Dhankuta,Govt. Houses Partially Destroyed,39
-Dhankuta,Public House Fully Destroyed,929
-Dhankuta,Public House Partially Destroyed,1500
-Shankhuwasabha,Total No. of Houses,34624
-Shankhuwasabha,Total Population,158742
-Shankhuwasabha,Dead Male,0
-Shankhuwasabha,Dead Female,0
-Shankhuwasabha,Dead Unknown,0
-Shankhuwasabha,Injured,8
-Shankhuwasabha,Govt. Houses Fully Destroyed,88
-Shankhuwasabha,Govt. Houses Partially Destroyed,208
-Shankhuwasabha,Public House Fully Destroyed,1327
-Shankhuwasabha,Public House Partially Destroyed,3031
-Khotang,Total No. of Houses,42664
-Khotang,Total Population,206312
-Khotang,Dead Male,0
-Khotang,Dead Female,0
-Khotang,Dead Unknown,0
-Khotang,Injured,8
-Khotang,Govt. Houses Fully Destroyed,18
-Khotang,Govt. Houses Partially Destroyed,55
-Khotang,Public House Fully Destroyed,2110
-Khotang,Public House Partially Destroyed,4986
-Saptari,Total No. of Houses,121098
-Saptari,Total Population,639284
-Saptari,Dead Male,0
-Saptari,Dead Female,0
-Saptari,Dead Unknown,0
-Saptari,Injured,24
-Saptari,Govt. Houses Fully Destroyed,0
-Saptari,Govt. Houses Partially Destroyed,28
-Saptari,Public House Fully Destroyed,0
-Saptari,Public House Partially Destroyed,355
-Rupandehi,Total No. of Houses,163916
-Rupandehi,Total Population,880696
-Rupandehi,Dead Male,0
-Rupandehi,Dead Female,0
-Rupandehi,Dead Unknown,0
-Rupandehi,Injured,39
-Rupandehi,Govt. Houses Fully Destroyed,1
-Rupandehi,Govt. Houses Partially Destroyed,17
-Rupandehi,Public House Fully Destroyed,1
-Rupandehi,Public House Partially Destroyed,79
-Kapilbastu,Total No. of Houses,91321
-Kapilbastu,Total Population,571936
-Kapilbastu,Dead Male,0
-Kapilbastu,Dead Female,0
-Kapilbastu,Dead Unknown,0
-Kapilbastu,Injured,6
-Kapilbastu,Govt. Houses Fully Destroyed,0
-Kapilbastu,Govt. Houses Partially Destroyed,23
-Kapilbastu,Public House Fully Destroyed,0
-Kapilbastu,Public House Partially Destroyed,66
-Arghakhanchi,Total No. of Houses,46835
-Arghakhanchi,Total Population,197632
-Arghakhanchi,Dead Male,0
-Arghakhanchi,Dead Female,0
-Arghakhanchi,Dead Unknown,0
-Arghakhanchi,Injured,0
-Arghakhanchi,Govt. Houses Fully Destroyed,0
-Arghakhanchi,Govt. Houses Partially Destroyed,8
-Arghakhanchi,Public House Fully Destroyed,189
-Arghakhanchi,Public House Partially Destroyed,352
-Shyanja,Total No. of Houses,68881
-Shyanja,Total Population,289148
-Shyanja,Dead Male,0
-Shyanja,Dead Female,0
-Shyanja,Dead Unknown,0
-Shyanja,Injured,24
-Shyanja,Govt. Houses Fully Destroyed,9
-Shyanja,Govt. Houses Partially Destroyed,49
-Shyanja,Public House Fully Destroyed,5003
-Shyanja,Public House Partially Destroyed,11829
-Tanahu,Total No. of Houses,78309
-Tanahu,Total Population,323288
-Tanahu,Dead Male,0
-Tanahu,Dead Female,0
-Tanahu,Dead Unknown,0
-Tanahu,Injured,27
-Tanahu,Govt. Houses Fully Destroyed,22
-Tanahu,Govt. Houses Partially Destroyed,54
-Tanahu,Public House Fully Destroyed,4877
-Tanahu,Public House Partially Destroyed,14474
-Manang,Total No. of Houses,1480
-Manang,Total Population,6538
-Manang,Dead Male,0
-Manang,Dead Female,0
-Manang,Dead Unknown,0
-Manang,Injured,1
-Manang,Govt. Houses Fully Destroyed,8
-Manang,Govt. Houses Partially Destroyed,12
-Manang,Public House Fully Destroyed,63
-Manang,Public House Partially Destroyed,285
-Mustang,Total No. of Houses,3354
-Mustang,Total Population,13452
-Mustang,Dead Male,0
-Mustang,Dead Female,0
-Mustang,Dead Unknown,0
-Mustang,Injured,1
-Mustang,Govt. Houses Fully Destroyed,2
-Mustang,Govt. Houses Partially Destroyed,19
-Mustang,Public House Fully Destroyed,56
-Mustang,Public House Partially Destroyed,616
-Myagdi,Total No. of Houses,27762
-Myagdi,Total Population,113641
-Myagdi,Dead Male,0
-Myagdi,Dead Female,0
-Myagdi,Dead Unknown,0
-Myagdi,Injured,11
-Myagdi,Govt. Houses Fully Destroyed,0
-Myagdi,Govt. Houses Partially Destroyed,0
-Myagdi,Public House Fully Destroyed,115
-Myagdi,Public House Partially Destroyed,1077
-Parbat,Total No. of Houses,35719
-Parbat,Total Population,146590
-Parbat,Dead Male,0
-Parbat,Dead Female,0
-Parbat,Dead Unknown,0
-Parbat,Injured,21
-Parbat,Govt. Houses Fully Destroyed,12
-Parbat,Govt. Houses Partially Destroyed,63
-Parbat,Public House Fully Destroyed,1805
-Parbat,Public House Partially Destroyed,4169
-Dang,Total No. of Houses,116415
-Dang,Total Population,552583
-Dang,Dead Male,0
-Dang,Dead Female,0
-Dang,Dead Unknown,0
-Dang,Injured,10
-Dang,Govt. Houses Fully Destroyed,1
-Dang,Govt. Houses Partially Destroyed,28
-Dang,Public House Fully Destroyed,7
-Dang,Public House Partially Destroyed,1080
-Pyuthan,Total No. of Houses,47730
-Pyuthan,Total Population,228102
-Pyuthan,Dead Male,0
-Pyuthan,Dead Female,0
-Pyuthan,Dead Unknown,0
-Pyuthan,Injured,9
-Pyuthan,Govt. Houses Fully Destroyed,0
-Pyuthan,Govt. Houses Partially Destroyed,0
-Pyuthan,Public House Fully Destroyed,3
-Pyuthan,Public House Partially Destroyed,66
-Salyan,Total No. of Houses,46556
-Salyan,Total Population,242444
-Salyan,Dead Male,0
-Salyan,Dead Female,0
-Salyan,Dead Unknown,0
-Salyan,Injured,2
-Salyan,Govt. Houses Fully Destroyed,1
-Salyan,Govt. Houses Partially Destroyed,17
-Salyan,Public House Fully Destroyed,24
-Salyan,Public House Partially Destroyed,282
-Dolpa,Total No. of Houses,7488
-Dolpa,Total Population,36700
-Dolpa,Dead Male,0
-Dolpa,Dead Female,0
-Dolpa,Dead Unknown,0
-Dolpa,Injured,0
-Dolpa,Govt. Houses Fully Destroyed,0
-Dolpa,Govt. Houses Partially Destroyed,0
-Dolpa,Public House Fully Destroyed,1
-Dolpa,Public House Partially Destroyed,5
-Mugu,Total No. of Houses,9619
-Mugu,Total Population,55286
-Mugu,Dead Male,0
-Mugu,Dead Female,0
-Mugu,Dead Unknown,0
-Mugu,Injured,0
-Mugu,Govt. Houses Fully Destroyed,0
-Mugu,Govt. Houses Partially Destroyed,0
-Mugu,Public House Fully Destroyed,0
-Mugu,Public House Partially Destroyed,0
-Humla,Total No. of Houses,9479
-Humla,Total Population,50858
-Humla,Dead Male,0
-Humla,Dead Female,0
-Humla,Dead Unknown,0
-Humla,Injured,0
-Humla,Govt. Houses Fully Destroyed,0
-Humla,Govt. Houses Partially Destroyed,0
-Humla,Public House Fully Destroyed,0
-Humla,Public House Partially Destroyed,0
-Jumla,Total No. of Houses,19303
-Jumla,Total Population,108921
-Jumla,Dead Male,0
-Jumla,Dead Female,0
-Jumla,Dead Unknown,0
-Jumla,Injured,2
-Jumla,Govt. Houses Fully Destroyed,0
-Jumla,Govt. Houses Partially Destroyed,0
-Jumla,Public House Fully Destroyed,0
-Jumla,Public House Partially Destroyed,2
-Kalikot,Total No. of Houses,23013
-Kalikot,Total Population,136948
-Kalikot,Dead Male,0
-Kalikot,Dead Female,0
-Kalikot,Dead Unknown,0
-Kalikot,Injured,0
-Kalikot,Govt. Houses Fully Destroyed,3
-Kalikot,Govt. Houses Partially Destroyed,17
-Kalikot,Public House Fully Destroyed,4
-Kalikot,Public House Partially Destroyed,18
-Jajarkot,Total No. of Houses,30472
-Jajarkot,Total Population,171304
-Jajarkot,Dead Male,0
-Jajarkot,Dead Female,0
-Jajarkot,Dead Unknown,0
-Jajarkot,Injured,3
-Jajarkot,Govt. Houses Fully Destroyed,0
-Jajarkot,Govt. Houses Partially Destroyed,8
-Jajarkot,Public House Fully Destroyed,0
-Jajarkot,Public House Partially Destroyed,1877
-Dailekh,Total No. of Houses,48919
-Dailekh,Total Population,261770
-Dailekh,Dead Male,0
-Dailekh,Dead Female,0
-Dailekh,Dead Unknown,0
-Dailekh,Injured,1
-Dailekh,Govt. Houses Fully Destroyed,0
-Dailekh,Govt. Houses Partially Destroyed,25
-Dailekh,Public House Fully Destroyed,1
-Dailekh,Public House Partially Destroyed,216
-Surkhet,Total No. of Houses,72863
-Surkhet,Total Population,350804
-Surkhet,Dead Male,0
-Surkhet,Dead Female,0
-Surkhet,Dead Unknown,0
-Surkhet,Injured,3
-Surkhet,Govt. Houses Fully Destroyed,0
-Surkhet,Govt. Houses Partially Destroyed,11
-Surkhet,Public House Fully Destroyed,1
-Surkhet,Public House Partially Destroyed,31
-Bardiya,Total No. of Houses,83176
-Bardiya,Total Population,426576
-Bardiya,Dead Male,0
-Bardiya,Dead Female,0
-Bardiya,Dead Unknown,0
-Bardiya,Injured,2
-Bardiya,Govt. Houses Fully Destroyed,0
-Bardiya,Govt. Houses Partially Destroyed,0
-Bardiya,Public House Fully Destroyed,0
-Bardiya,Public House Partially Destroyed,40
-Banke,Total No. of Houses,94773
-Banke,Total Population,491313
-Banke,Dead Male,0
-Banke,Dead Female,0
-Banke,Dead Unknown,0
-Banke,Injured,1
-Banke,Govt. Houses Fully Destroyed,0
-Banke,Govt. Houses Partially Destroyed,0
-Banke,Public House Fully Destroyed,0
-Banke,Public House Partially Destroyed,81
-Kailali,Total No. of Houses,142480
-Kailali,Total Population,775709
-Kailali,Dead Male,0
-Kailali,Dead Female,0
-Kailali,Dead Unknown,0
-Kailali,Injured,1
-Kailali,Govt. Houses Fully Destroyed,0
-Kailali,Govt. Houses Partially Destroyed,5
-Kailali,Public House Fully Destroyed,0
-Kailali,Public House Partially Destroyed,4
-Doti,Total No. of Houses,41440
-Doti,Total Population,211746
-Doti,Dead Male,0
-Doti,Dead Female,0
-Doti,Dead Unknown,0
-Doti,Injured,0
-Doti,Govt. Houses Fully Destroyed,0
-Doti,Govt. Houses Partially Destroyed,1
-Doti,Public House Fully Destroyed,0
-Doti,Public House Partially Destroyed,0
-Achhaam,Total No. of Houses,48351
-Achhaam,Total Population,257477
-Achhaam,Dead Male,0
-Achhaam,Dead Female,0
-Achhaam,Dead Unknown,0
-Achhaam,Injured,0
-Achhaam,Govt. Houses Fully Destroyed,0
-Achhaam,Govt. Houses Partially Destroyed,0
-Achhaam,Public House Fully Destroyed,0
-Achhaam,Public House Partially Destroyed,0
-Bajura,Total No. of Houses,24908
-Bajura,Total Population,134912
-Bajura,Dead Male,0
-Bajura,Dead Female,0
-Bajura,Dead Unknown,0
-Bajura,Injured,0
-Bajura,Govt. Houses Fully Destroyed,0
-Bajura,Govt. Houses Partially Destroyed,0
-Bajura,Public House Fully Destroyed,0
-Bajura,Public House Partially Destroyed,1
-Bajhang,Total No. of Houses,33786
-Bajhang,Total Population,195159
-Bajhang,Dead Male,0
-Bajhang,Dead Female,0
-Bajhang,Dead Unknown,0
-Bajhang,Injured,0
-Bajhang,Govt. Houses Fully Destroyed,0
-Bajhang,Govt. Houses Partially Destroyed,0
-Bajhang,Public House Fully Destroyed,0
-Bajhang,Public House Partially Destroyed,0
-Darchula,Total No. of Houses,24618
-Darchula,Total Population,133274
-Darchula,Dead Male,0
-Darchula,Dead Female,0
-Darchula,Dead Unknown,0
-Darchula,Injured,0
-Darchula,Govt. Houses Fully Destroyed,0
-Darchula,Govt. Houses Partially Destroyed,0
-Darchula,Public House Fully Destroyed,0
-Darchula,Public House Partially Destroyed,0
-Baitadi,Total No. of Houses,45191
-Baitadi,Total Population,250898
-Baitadi,Dead Male,0
-Baitadi,Dead Female,0
-Baitadi,Dead Unknown,0
-Baitadi,Injured,0
-Baitadi,Govt. Houses Fully Destroyed,0
-Baitadi,Govt. Houses Partially Destroyed,0
-Baitadi,Public House Fully Destroyed,0
-Baitadi,Public House Partially Destroyed,0
-Dadeldhura,Total No. of Houses,27045
-Dadeldhura,Total Population,142094
-Dadeldhura,Dead Male,0
-Dadeldhura,Dead Female,0
-Dadeldhura,Dead Unknown,0
-Dadeldhura,Injured,0
-Dadeldhura,Govt. Houses Fully Destroyed,0
-Dadeldhura,Govt. Houses Partially Destroyed,0
-Dadeldhura,Public House Fully Destroyed,0
-Dadeldhura,Public House Partially Destroyed,1
-Kanchanpur,Total No. of Houses,82152
-Kanchanpur,Total Population,451248
-Kanchanpur,Dead Male,0
-Kanchanpur,Dead Female,0
-Kanchanpur,Dead Unknown,0
-Kanchanpur,Injured,1
-Kanchanpur,Govt. Houses Fully Destroyed,0
-Kanchanpur,Govt. Houses Partially Destroyed,1
-Kanchanpur,Public House Fully Destroyed,0
-Kanchanpur,Public House Partially Destroyed,0
+District,Zone,Geographical Region,Development Region,Causalities,In Number
+Sindhupalchok,Bagmati,Mountain,Central,Total No. of Houses,66688
+Sindhupalchok,Bagmati,Mountain,Central,Total Population,287798
+Sindhupalchok,Bagmati,Mountain,Central,Dead Male,1497
+Sindhupalchok,Bagmati,Mountain,Central,Dead Female,1943
+Sindhupalchok,Bagmati,Mountain,Central,Dead Unknown,0
+Sindhupalchok,Bagmati,Mountain,Central,Injured,1571
+Sindhupalchok,Bagmati,Mountain,Central,Govt. Houses Fully Destroyed,0
+Sindhupalchok,Bagmati,Mountain,Central,Govt. Houses Partially Destroyed,0
+Sindhupalchok,Bagmati,Mountain,Central,Public House Fully Destroyed,63885
+Sindhupalchok,Bagmati,Mountain,Central,Public House Partially Destroyed,2751
+Kathmandu,Bagmati,Hill,Central,Total No. of Houses,436344
+Kathmandu,Bagmati,Hill,Central,Total Population,1744240
+Kathmandu,Bagmati,Hill,Central,Dead Male,621
+Kathmandu,Bagmati,Hill,Central,Dead Female,600
+Kathmandu,Bagmati,Hill,Central,Dead Unknown,1
+Kathmandu,Bagmati,Hill,Central,Injured,7859
+Kathmandu,Bagmati,Hill,Central,Govt. Houses Fully Destroyed,85
+Kathmandu,Bagmati,Hill,Central,Govt. Houses Partially Destroyed,277
+Kathmandu,Bagmati,Hill,Central,Public House Fully Destroyed,36973
+Kathmandu,Bagmati,Hill,Central,Public House Partially Destroyed,50753
+Nuwakot,Bagmati,Hill,Central,Total No. of Houses,59215
+Nuwakot,Bagmati,Hill,Central,Total Population,277471
+Nuwakot,Bagmati,Hill,Central,Dead Male,456
+Nuwakot,Bagmati,Hill,Central,Dead Female,625
+Nuwakot,Bagmati,Hill,Central,Dead Unknown,0
+Nuwakot,Bagmati,Hill,Central,Injured,1052
+Nuwakot,Bagmati,Hill,Central,Govt. Houses Fully Destroyed,14
+Nuwakot,Bagmati,Hill,Central,Govt. Houses Partially Destroyed,15
+Nuwakot,Bagmati,Hill,Central,Public House Fully Destroyed,57943
+Nuwakot,Bagmati,Hill,Central,Public House Partially Destroyed,4200
+Dhading,Bagmati,Hill,Central,Total No. of Houses,73851
+Dhading,Bagmati,Hill,Central,Total Population,336067
+Dhading,Bagmati,Hill,Central,Dead Male,340
+Dhading,Bagmati,Hill,Central,Dead Female,393
+Dhading,Bagmati,Hill,Central,Dead Unknown,0
+Dhading,Bagmati,Hill,Central,Injured,1218
+Dhading,Bagmati,Hill,Central,Govt. Houses Fully Destroyed,93
+Dhading,Bagmati,Hill,Central,Govt. Houses Partially Destroyed,58
+Dhading,Bagmati,Hill,Central,Public House Fully Destroyed,43741
+Dhading,Bagmati,Hill,Central,Public House Partially Destroyed,18720
+Rasuwa,Bagmati,Mountain,Central,Total No. of Houses,9778
+Rasuwa,Bagmati,Mountain,Central,Total Population,43300
+Rasuwa,Bagmati,Mountain,Central,Dead Male,287
+Rasuwa,Bagmati,Mountain,Central,Dead Female,310
+Rasuwa,Bagmati,Mountain,Central,Dead Unknown,0
+Rasuwa,Bagmati,Mountain,Central,Injured,771
+Rasuwa,Bagmati,Mountain,Central,Govt. Houses Fully Destroyed,0
+Rasuwa,Bagmati,Mountain,Central,Govt. Houses Partially Destroyed,0
+Rasuwa,Bagmati,Mountain,Central,Public House Fully Destroyed,7040
+Rasuwa,Bagmati,Mountain,Central,Public House Partially Destroyed,2410
+Gorkha,Gandaki,Hill,Western,Total No. of Houses,66506
+Gorkha,Gandaki,Hill,Western,Total Population,271061
+Gorkha,Gandaki,Hill,Western,Dead Male,213
+Gorkha,Gandaki,Hill,Western,Dead Female,230
+Gorkha,Gandaki,Hill,Western,Dead Unknown,0
+Gorkha,Gandaki,Hill,Western,Injured,952
+Gorkha,Gandaki,Hill,Western,Govt. Houses Fully Destroyed,228
+Gorkha,Gandaki,Hill,Western,Govt. Houses Partially Destroyed,37
+Gorkha,Gandaki,Hill,Western,Public House Fully Destroyed,44382
+Gorkha,Gandaki,Hill,Western,Public House Partially Destroyed,13880
+Bhaktapur,Bagmati,Hill,Central,Total No. of Houses,68636
+Bhaktapur,Bagmati,Hill,Central,Total Population,304651
+Bhaktapur,Bagmati,Hill,Central,Dead Male,118
+Bhaktapur,Bagmati,Hill,Central,Dead Female,215
+Bhaktapur,Bagmati,Hill,Central,Dead Unknown,0
+Bhaktapur,Bagmati,Hill,Central,Injured,2101
+Bhaktapur,Bagmati,Hill,Central,Govt. Houses Fully Destroyed,0
+Bhaktapur,Bagmati,Hill,Central,Govt. Houses Partially Destroyed,0
+Bhaktapur,Bagmati,Hill,Central,Public House Fully Destroyed,18900
+Bhaktapur,Bagmati,Hill,Central,Public House Partially Destroyed,9090
+Kavre,Bagmati,Hill,Central,Total No. of Houses,80720
+Kavre,Bagmati,Hill,Central,Total Population,381937
+Kavre,Bagmati,Hill,Central,Dead Male,129
+Kavre,Bagmati,Hill,Central,Dead Female,189
+Kavre,Bagmati,Hill,Central,Dead Unknown,0
+Kavre,Bagmati,Hill,Central,Injured,1179
+Kavre,Bagmati,Hill,Central,Govt. Houses Fully Destroyed,0
+Kavre,Bagmati,Hill,Central,Govt. Houses Partially Destroyed,0
+Kavre,Bagmati,Hill,Central,Public House Fully Destroyed,49933
+Kavre,Bagmati,Hill,Central,Public House Partially Destroyed,23714
+Lalitpur,Bagmati,Hill,Central,Total No. of Houses,109797
+Lalitpur,Bagmati,Hill,Central,Total Population,468132
+Lalitpur,Bagmati,Hill,Central,Dead Male,67
+Lalitpur,Bagmati,Hill,Central,Dead Female,107
+Lalitpur,Bagmati,Hill,Central,Dead Unknown,0
+Lalitpur,Bagmati,Hill,Central,Injured,3052
+Lalitpur,Bagmati,Hill,Central,Govt. Houses Fully Destroyed,217
+Lalitpur,Bagmati,Hill,Central,Govt. Houses Partially Destroyed,198
+Lalitpur,Bagmati,Hill,Central,Public House Fully Destroyed,17444
+Lalitpur,Bagmati,Hill,Central,Public House Partially Destroyed,8064
+Dolakha,Janakpur,Mountain,Central,Total No. of Houses,45688
+Dolakha,Janakpur,Mountain,Central,Total Population,186557
+Dolakha,Janakpur,Mountain,Central,Dead Male,84
+Dolakha,Janakpur,Mountain,Central,Dead Female,85
+Dolakha,Janakpur,Mountain,Central,Dead Unknown,1
+Dolakha,Janakpur,Mountain,Central,Injured,662
+Dolakha,Janakpur,Mountain,Central,Govt. Houses Fully Destroyed,28
+Dolakha,Janakpur,Mountain,Central,Govt. Houses Partially Destroyed,0
+Dolakha,Janakpur,Mountain,Central,Public House Fully Destroyed,48880
+Dolakha,Janakpur,Mountain,Central,Public House Partially Destroyed,3120
+Ramechhap,Janakpur,Hill,Central,Total No. of Houses,43910
+Ramechhap,Janakpur,Hill,Central,Total Population,202646
+Ramechhap,Janakpur,Hill,Central,Dead Male,16
+Ramechhap,Janakpur,Hill,Central,Dead Female,23
+Ramechhap,Janakpur,Hill,Central,Dead Unknown,0
+Ramechhap,Janakpur,Hill,Central,Injured,135
+Ramechhap,Janakpur,Hill,Central,Govt. Houses Fully Destroyed,54
+Ramechhap,Janakpur,Hill,Central,Govt. Houses Partially Destroyed,56
+Ramechhap,Janakpur,Hill,Central,Public House Fully Destroyed,26743
+Ramechhap,Janakpur,Hill,Central,Public House Partially Destroyed,13173
+Makwanpur,Narayani,Hill,Central,Total No. of Houses,86127
+Makwanpur,Narayani,Hill,Central,Total Population,420477
+Makwanpur,Narayani,Hill,Central,Dead Male,16
+Makwanpur,Narayani,Hill,Central,Dead Female,17
+Makwanpur,Narayani,Hill,Central,Dead Unknown,0
+Makwanpur,Narayani,Hill,Central,Injured,229
+Makwanpur,Narayani,Hill,Central,Govt. Houses Fully Destroyed,46
+Makwanpur,Narayani,Hill,Central,Govt. Houses Partially Destroyed,177
+Makwanpur,Narayani,Hill,Central,Public House Fully Destroyed,15012
+Makwanpur,Narayani,Hill,Central,Public House Partially Destroyed,17042
+Solukhumbu,Sagarmatha,Mountain,Eastern,Total No. of Houses,23785
+Solukhumbu,Sagarmatha,Mountain,Eastern,Total Population,105886
+Solukhumbu,Sagarmatha,Mountain,Eastern,Dead Male,15
+Solukhumbu,Sagarmatha,Mountain,Eastern,Dead Female,5
+Solukhumbu,Sagarmatha,Mountain,Eastern,Dead Unknown,0
+Solukhumbu,Sagarmatha,Mountain,Eastern,Injured,100
+Solukhumbu,Sagarmatha,Mountain,Eastern,Govt. Houses Fully Destroyed,75
+Solukhumbu,Sagarmatha,Mountain,Eastern,Govt. Houses Partially Destroyed,142
+Solukhumbu,Sagarmatha,Mountain,Eastern,Public House Fully Destroyed,8555
+Solukhumbu,Sagarmatha,Mountain,Eastern,Public House Partially Destroyed,8828
+Okhaldhunga,Sagarmatha,Hill,Eastern,Total No. of Houses,32502
+Okhaldhunga,Sagarmatha,Hill,Eastern,Total Population,147984
+Okhaldhunga,Sagarmatha,Hill,Eastern,Dead Male,10
+Okhaldhunga,Sagarmatha,Hill,Eastern,Dead Female,10
+Okhaldhunga,Sagarmatha,Hill,Eastern,Dead Unknown,0
+Okhaldhunga,Sagarmatha,Hill,Eastern,Injured,61
+Okhaldhunga,Sagarmatha,Hill,Eastern,Govt. Houses Fully Destroyed,1
+Okhaldhunga,Sagarmatha,Hill,Eastern,Govt. Houses Partially Destroyed,191
+Okhaldhunga,Sagarmatha,Hill,Eastern,Public House Fully Destroyed,10031
+Okhaldhunga,Sagarmatha,Hill,Eastern,Public House Partially Destroyed,3107
+Sindhuli,Janakpur,Hill,Central,Total No. of Houses,57581
+Sindhuli,Janakpur,Hill,Central,Total Population,296192
+Sindhuli,Janakpur,Hill,Central,Dead Male,5
+Sindhuli,Janakpur,Hill,Central,Dead Female,9
+Sindhuli,Janakpur,Hill,Central,Dead Unknown,0
+Sindhuli,Janakpur,Hill,Central,Injured,231
+Sindhuli,Janakpur,Hill,Central,Govt. Houses Fully Destroyed,92
+Sindhuli,Janakpur,Hill,Central,Govt. Houses Partially Destroyed,231
+Sindhuli,Janakpur,Hill,Central,Public House Fully Destroyed,18197
+Sindhuli,Janakpur,Hill,Central,Public House Partially Destroyed,10028
+Chitawan,Narayani,Terai,Central,Total No. of Houses,132462
+Chitawan,Narayani,Terai,Central,Total Population,579984
+Chitawan,Narayani,Terai,Central,Dead Male,6
+Chitawan,Narayani,Terai,Central,Dead Female,4
+Chitawan,Narayani,Terai,Central,Dead Unknown,0
+Chitawan,Narayani,Terai,Central,Injured,143
+Chitawan,Narayani,Terai,Central,Govt. Houses Fully Destroyed,0
+Chitawan,Narayani,Terai,Central,Govt. Houses Partially Destroyed,40
+Chitawan,Narayani,Terai,Central,Public House Fully Destroyed,472
+Chitawan,Narayani,Terai,Central,Public House Partially Destroyed,754
+Sunsari,Kosi,Terai,Eastern,Total No. of Houses,162407
+Sunsari,Kosi,Terai,Eastern,Total Population,763487
+Sunsari,Kosi,Terai,Eastern,Dead Male,2
+Sunsari,Kosi,Terai,Eastern,Dead Female,7
+Sunsari,Kosi,Terai,Eastern,Dead Unknown,0
+Sunsari,Kosi,Terai,Eastern,Injured,35
+Sunsari,Kosi,Terai,Eastern,Govt. Houses Fully Destroyed,0
+Sunsari,Kosi,Terai,Eastern,Govt. Houses Partially Destroyed,42
+Sunsari,Kosi,Terai,Eastern,Public House Fully Destroyed,2
+Sunsari,Kosi,Terai,Eastern,Public House Partially Destroyed,63
+Parsa,Narayani,Terai,Central,Total No. of Houses,95536
+Parsa,Narayani,Terai,Central,Total Population,601017
+Parsa,Narayani,Terai,Central,Dead Male,1
+Parsa,Narayani,Terai,Central,Dead Female,5
+Parsa,Narayani,Terai,Central,Dead Unknown,0
+Parsa,Narayani,Terai,Central,Injured,50
+Parsa,Narayani,Terai,Central,Govt. Houses Fully Destroyed,0
+Parsa,Narayani,Terai,Central,Govt. Houses Partially Destroyed,12
+Parsa,Narayani,Terai,Central,Public House Fully Destroyed,0
+Parsa,Narayani,Terai,Central,Public House Partially Destroyed,35
+Bara,Narayani,Terai,Central,Total No. of Houses,108635
+Bara,Narayani,Terai,Central,Total Population,687708
+Bara,Narayani,Terai,Central,Dead Male,0
+Bara,Narayani,Terai,Central,Dead Female,5
+Bara,Narayani,Terai,Central,Dead Unknown,0
+Bara,Narayani,Terai,Central,Injured,62
+Bara,Narayani,Terai,Central,Govt. Houses Fully Destroyed,1
+Bara,Narayani,Terai,Central,Govt. Houses Partially Destroyed,0
+Bara,Narayani,Terai,Central,Public House Fully Destroyed,50
+Bara,Narayani,Terai,Central,Public House Partially Destroyed,0
+Lamjung,Gandaki,Hill,Western,Total No. of Houses,42079
+Lamjung,Gandaki,Hill,Western,Total Population,167724
+Lamjung,Gandaki,Hill,Western,Dead Male,3
+Lamjung,Gandaki,Hill,Western,Dead Female,2
+Lamjung,Gandaki,Hill,Western,Dead Unknown,0
+Lamjung,Gandaki,Hill,Western,Injured,40
+Lamjung,Gandaki,Hill,Western,Govt. Houses Fully Destroyed,39
+Lamjung,Gandaki,Hill,Western,Govt. Houses Partially Destroyed,48
+Lamjung,Gandaki,Hill,Western,Public House Fully Destroyed,8472
+Lamjung,Gandaki,Hill,Western,Public House Partially Destroyed,8876
+Mahottari,Janakpur,Terai,Central,Total No. of Houses,111316
+Mahottari,Janakpur,Terai,Central,Total Population,627580
+Mahottari,Janakpur,Terai,Central,Dead Male,2
+Mahottari,Janakpur,Terai,Central,Dead Female,1
+Mahottari,Janakpur,Terai,Central,Dead Unknown,0
+Mahottari,Janakpur,Terai,Central,Injured,16
+Mahottari,Janakpur,Terai,Central,Govt. Houses Fully Destroyed,10
+Mahottari,Janakpur,Terai,Central,Govt. Houses Partially Destroyed,14
+Mahottari,Janakpur,Terai,Central,Public House Fully Destroyed,500
+Mahottari,Janakpur,Terai,Central,Public House Partially Destroyed,600
+Rautahat,Narayani,Terai,Central,Total No. of Houses,106668
+Rautahat,Narayani,Terai,Central,Total Population,686722
+Rautahat,Narayani,Terai,Central,Dead Male,1
+Rautahat,Narayani,Terai,Central,Dead Female,2
+Rautahat,Narayani,Terai,Central,Dead Unknown,0
+Rautahat,Narayani,Terai,Central,Injured,38
+Rautahat,Narayani,Terai,Central,Govt. Houses Fully Destroyed,0
+Rautahat,Narayani,Terai,Central,Govt. Houses Partially Destroyed,9
+Rautahat,Narayani,Terai,Central,Public House Fully Destroyed,70
+Rautahat,Narayani,Terai,Central,Public House Partially Destroyed,199
+Kaski,Gandaki,Hill,Western,Total No. of Houses,125673
+Kaski,Gandaki,Hill,Western,Total Population,492098
+Kaski,Gandaki,Hill,Western,Dead Male,1
+Kaski,Gandaki,Hill,Western,Dead Female,2
+Kaski,Gandaki,Hill,Western,Dead Unknown,0
+Kaski,Gandaki,Hill,Western,Injured,38
+Kaski,Gandaki,Hill,Western,Govt. Houses Fully Destroyed,10
+Kaski,Gandaki,Hill,Western,Govt. Houses Partially Destroyed,45
+Kaski,Gandaki,Hill,Western,Public House Fully Destroyed,1744
+Kaski,Gandaki,Hill,Western,Public House Partially Destroyed,6963
+Morang,Kosi,Terai,Eastern,Total No. of Houses,213997
+Morang,Kosi,Terai,Eastern,Total Population,965370
+Morang,Kosi,Terai,Eastern,Dead Male,1
+Morang,Kosi,Terai,Eastern,Dead Female,1
+Morang,Kosi,Terai,Eastern,Dead Unknown,0
+Morang,Kosi,Terai,Eastern,Injured,59
+Morang,Kosi,Terai,Eastern,Govt. Houses Fully Destroyed,0
+Morang,Kosi,Terai,Eastern,Govt. Houses Partially Destroyed,51
+Morang,Kosi,Terai,Eastern,Public House Fully Destroyed,3
+Morang,Kosi,Terai,Eastern,Public House Partially Destroyed,112
+Bhojpur,Kosi,Hill,Eastern,Total No. of Houses,39419
+Bhojpur,Kosi,Hill,Eastern,Total Population,182459
+Bhojpur,Kosi,Hill,Eastern,Dead Male,0
+Bhojpur,Kosi,Hill,Eastern,Dead Female,2
+Bhojpur,Kosi,Hill,Eastern,Dead Unknown,0
+Bhojpur,Kosi,Hill,Eastern,Injured,13
+Bhojpur,Kosi,Hill,Eastern,Govt. Houses Fully Destroyed,0
+Bhojpur,Kosi,Hill,Eastern,Govt. Houses Partially Destroyed,21
+Bhojpur,Kosi,Hill,Eastern,Public House Fully Destroyed,1414
+Bhojpur,Kosi,Hill,Eastern,Public House Partially Destroyed,3513
+Sarlahi,Janakpur,Terai,Central,Total No. of Houses,132844
+Sarlahi,Janakpur,Terai,Central,Total Population,769729
+Sarlahi,Janakpur,Terai,Central,Dead Male,1
+Sarlahi,Janakpur,Terai,Central,Dead Female,1
+Sarlahi,Janakpur,Terai,Central,Dead Unknown,0
+Sarlahi,Janakpur,Terai,Central,Injured,70
+Sarlahi,Janakpur,Terai,Central,Govt. Houses Fully Destroyed,7
+Sarlahi,Janakpur,Terai,Central,Govt. Houses Partially Destroyed,27
+Sarlahi,Janakpur,Terai,Central,Public House Fully Destroyed,0
+Sarlahi,Janakpur,Terai,Central,Public House Partially Destroyed,0
+Taplejung,Mechi,Mountain,Eastern,Total No. of Houses,26509
+Taplejung,Mechi,Mountain,Eastern,Total Population,127461
+Taplejung,Mechi,Mountain,Eastern,Dead Male,0
+Taplejung,Mechi,Mountain,Eastern,Dead Female,1
+Taplejung,Mechi,Mountain,Eastern,Dead Unknown,0
+Taplejung,Mechi,Mountain,Eastern,Injured,7
+Taplejung,Mechi,Mountain,Eastern,Govt. Houses Fully Destroyed,0
+Taplejung,Mechi,Mountain,Eastern,Govt. Houses Partially Destroyed,69
+Taplejung,Mechi,Mountain,Eastern,Public House Fully Destroyed,51
+Taplejung,Mechi,Mountain,Eastern,Public House Partially Destroyed,436
+Jhapa,Mechi,Terai,Eastern,Total No. of Houses,184552
+Jhapa,Mechi,Terai,Eastern,Total Population,812650
+Jhapa,Mechi,Terai,Eastern,Dead Male,0
+Jhapa,Mechi,Terai,Eastern,Dead Female,1
+Jhapa,Mechi,Terai,Eastern,Dead Unknown,0
+Jhapa,Mechi,Terai,Eastern,Injured,25
+Jhapa,Mechi,Terai,Eastern,Govt. Houses Fully Destroyed,0
+Jhapa,Mechi,Terai,Eastern,Govt. Houses Partially Destroyed,46
+Jhapa,Mechi,Terai,Eastern,Public House Fully Destroyed,95
+Jhapa,Mechi,Terai,Eastern,Public House Partially Destroyed,144
+Terhathum,Kosi,Hill,Eastern,Total No. of Houses,22094
+Terhathum,Kosi,Hill,Eastern,Total Population,101577
+Terhathum,Kosi,Hill,Eastern,Dead Male,1
+Terhathum,Kosi,Hill,Eastern,Dead Female,0
+Terhathum,Kosi,Hill,Eastern,Dead Unknown,0
+Terhathum,Kosi,Hill,Eastern,Injured,14
+Terhathum,Kosi,Hill,Eastern,Govt. Houses Fully Destroyed,0
+Terhathum,Kosi,Hill,Eastern,Govt. Houses Partially Destroyed,60
+Terhathum,Kosi,Hill,Eastern,Public House Fully Destroyed,91
+Terhathum,Kosi,Hill,Eastern,Public House Partially Destroyed,603
+Udayapur,Sagarmatha,Hill,Eastern,Total No. of Houses,66557
+Udayapur,Sagarmatha,Hill,Eastern,Total Population,317532
+Udayapur,Sagarmatha,Hill,Eastern,Dead Male,0
+Udayapur,Sagarmatha,Hill,Eastern,Dead Female,1
+Udayapur,Sagarmatha,Hill,Eastern,Dead Unknown,0
+Udayapur,Sagarmatha,Hill,Eastern,Injured,35
+Udayapur,Sagarmatha,Hill,Eastern,Govt. Houses Fully Destroyed,52
+Udayapur,Sagarmatha,Hill,Eastern,Govt. Houses Partially Destroyed,460
+Udayapur,Sagarmatha,Hill,Eastern,Public House Fully Destroyed,95
+Udayapur,Sagarmatha,Hill,Eastern,Public House Partially Destroyed,516
+Siraha,Sagarmatha,Terai,Eastern,Total No. of Houses,1179622
+Siraha,Sagarmatha,Terai,Eastern,Total Population,637328
+Siraha,Sagarmatha,Terai,Eastern,Dead Male,0
+Siraha,Sagarmatha,Terai,Eastern,Dead Female,1
+Siraha,Sagarmatha,Terai,Eastern,Dead Unknown,0
+Siraha,Sagarmatha,Terai,Eastern,Injured,39
+Siraha,Sagarmatha,Terai,Eastern,Govt. Houses Fully Destroyed,0
+Siraha,Sagarmatha,Terai,Eastern,Govt. Houses Partially Destroyed,20
+Siraha,Sagarmatha,Terai,Eastern,Public House Fully Destroyed,0
+Siraha,Sagarmatha,Terai,Eastern,Public House Partially Destroyed,540
+Dhanusa,Janakpur,Terai,Central,Total No. of Houses,138249
+Dhanusa,Janakpur,Terai,Central,Total Population,754777
+Dhanusa,Janakpur,Terai,Central,Dead Male,1
+Dhanusa,Janakpur,Terai,Central,Dead Female,0
+Dhanusa,Janakpur,Terai,Central,Dead Unknown,0
+Dhanusa,Janakpur,Terai,Central,Injured,45
+Dhanusa,Janakpur,Terai,Central,Govt. Houses Fully Destroyed,0
+Dhanusa,Janakpur,Terai,Central,Govt. Houses Partially Destroyed,8
+Dhanusa,Janakpur,Terai,Central,Public House Fully Destroyed,4
+Dhanusa,Janakpur,Terai,Central,Public House Partially Destroyed,47
+Nawalparasi,Lumbini,Terai,Western,Total No. of Houses,128793
+Nawalparasi,Lumbini,Terai,Western,Total Population,643508
+Nawalparasi,Lumbini,Terai,Western,Dead Male,0
+Nawalparasi,Lumbini,Terai,Western,Dead Female,1
+Nawalparasi,Lumbini,Terai,Western,Dead Unknown,0
+Nawalparasi,Lumbini,Terai,Western,Injured,41
+Nawalparasi,Lumbini,Terai,Western,Govt. Houses Fully Destroyed,0
+Nawalparasi,Lumbini,Terai,Western,Govt. Houses Partially Destroyed,14
+Nawalparasi,Lumbini,Terai,Western,Public House Fully Destroyed,446
+Nawalparasi,Lumbini,Terai,Western,Public House Partially Destroyed,3343
+Palpa,Lumbini,Hill,Western,Total No. of Houses,59291
+Palpa,Lumbini,Hill,Western,Total Population,261180
+Palpa,Lumbini,Hill,Western,Dead Male,0
+Palpa,Lumbini,Hill,Western,Dead Female,1
+Palpa,Lumbini,Hill,Western,Dead Unknown,0
+Palpa,Lumbini,Hill,Western,Injured,16
+Palpa,Lumbini,Hill,Western,Govt. Houses Fully Destroyed,2
+Palpa,Lumbini,Hill,Western,Govt. Houses Partially Destroyed,24
+Palpa,Lumbini,Hill,Western,Public House Fully Destroyed,1434
+Palpa,Lumbini,Hill,Western,Public House Partially Destroyed,2665
+Gulmi,Lumbini,Hill,Western,Total No. of Houses,64921
+Gulmi,Lumbini,Hill,Western,Total Population,280160
+Gulmi,Lumbini,Hill,Western,Dead Male,0
+Gulmi,Lumbini,Hill,Western,Dead Female,1
+Gulmi,Lumbini,Hill,Western,Dead Unknown,0
+Gulmi,Lumbini,Hill,Western,Injured,11
+Gulmi,Lumbini,Hill,Western,Govt. Houses Fully Destroyed,73
+Gulmi,Lumbini,Hill,Western,Govt. Houses Partially Destroyed,271
+Gulmi,Lumbini,Hill,Western,Public House Fully Destroyed,2100
+Gulmi,Lumbini,Hill,Western,Public House Partially Destroyed,4363
+Baglung,Dhawalagiri,Hill,Western,Total No. of Houses,61522
+Baglung,Dhawalagiri,Hill,Western,Total Population,268613
+Baglung,Dhawalagiri,Hill,Western,Dead Male,0
+Baglung,Dhawalagiri,Hill,Western,Dead Female,1
+Baglung,Dhawalagiri,Hill,Western,Dead Unknown,0
+Baglung,Dhawalagiri,Hill,Western,Injured,14
+Baglung,Dhawalagiri,Hill,Western,Govt. Houses Fully Destroyed,2
+Baglung,Dhawalagiri,Hill,Western,Govt. Houses Partially Destroyed,4
+Baglung,Dhawalagiri,Hill,Western,Public House Fully Destroyed,1773
+Baglung,Dhawalagiri,Hill,Western,Public House Partially Destroyed,1963
+Rolpa,Rapti,Hill,Mid-Western,Total No. of Houses,43757
+Rolpa,Rapti,Hill,Mid-Western,Total Population,224506
+Rolpa,Rapti,Hill,Mid-Western,Dead Male,1
+Rolpa,Rapti,Hill,Mid-Western,Dead Female,0
+Rolpa,Rapti,Hill,Mid-Western,Dead Unknown,0
+Rolpa,Rapti,Hill,Mid-Western,Injured,2
+Rolpa,Rapti,Hill,Mid-Western,Govt. Houses Fully Destroyed,0
+Rolpa,Rapti,Hill,Mid-Western,Govt. Houses Partially Destroyed,6
+Rolpa,Rapti,Hill,Mid-Western,Public House Fully Destroyed,62
+Rolpa,Rapti,Hill,Mid-Western,Public House Partially Destroyed,159
+Rukum,Rapti,Hill,Mid-Western,Total No. of Houses,41856
+Rukum,Rapti,Hill,Mid-Western,Total Population,208567
+Rukum,Rapti,Hill,Mid-Western,Dead Male,1
+Rukum,Rapti,Hill,Mid-Western,Dead Female,0
+Rukum,Rapti,Hill,Mid-Western,Dead Unknown,0
+Rukum,Rapti,Hill,Mid-Western,Injured,1
+Rukum,Rapti,Hill,Mid-Western,Govt. Houses Fully Destroyed,10
+Rukum,Rapti,Hill,Mid-Western,Govt. Houses Partially Destroyed,16
+Rukum,Rapti,Hill,Mid-Western,Public House Fully Destroyed,136
+Rukum,Rapti,Hill,Mid-Western,Public House Partially Destroyed,976
+Panchthar,Mechi,Hill,Eastern,Total No. of Houses,41196
+Panchthar,Mechi,Hill,Eastern,Total Population,191817
+Panchthar,Mechi,Hill,Eastern,Dead Male,0
+Panchthar,Mechi,Hill,Eastern,Dead Female,0
+Panchthar,Mechi,Hill,Eastern,Dead Unknown,0
+Panchthar,Mechi,Hill,Eastern,Injured,9
+Panchthar,Mechi,Hill,Eastern,Govt. Houses Fully Destroyed,22
+Panchthar,Mechi,Hill,Eastern,Govt. Houses Partially Destroyed,5
+Panchthar,Mechi,Hill,Eastern,Public House Fully Destroyed,229
+Panchthar,Mechi,Hill,Eastern,Public House Partially Destroyed,926
+Ilam,Mechi,Hill,Eastern,Total No. of Houses,64502
+Ilam,Mechi,Hill,Eastern,Total Population,290254
+Ilam,Mechi,Hill,Eastern,Dead Male,0
+Ilam,Mechi,Hill,Eastern,Dead Female,0
+Ilam,Mechi,Hill,Eastern,Dead Unknown,0
+Ilam,Mechi,Hill,Eastern,Injured,10
+Ilam,Mechi,Hill,Eastern,Govt. Houses Fully Destroyed,34
+Ilam,Mechi,Hill,Eastern,Govt. Houses Partially Destroyed,42
+Ilam,Mechi,Hill,Eastern,Public House Fully Destroyed,316
+Ilam,Mechi,Hill,Eastern,Public House Partially Destroyed,2032
+Dhankuta,Kosi,Hill,Eastern,Total No. of Houses,37637
+Dhankuta,Kosi,Hill,Eastern,Total Population,163412
+Dhankuta,Kosi,Hill,Eastern,Dead Male,0
+Dhankuta,Kosi,Hill,Eastern,Dead Female,0
+Dhankuta,Kosi,Hill,Eastern,Dead Unknown,0
+Dhankuta,Kosi,Hill,Eastern,Injured,5
+Dhankuta,Kosi,Hill,Eastern,Govt. Houses Fully Destroyed,0
+Dhankuta,Kosi,Hill,Eastern,Govt. Houses Partially Destroyed,39
+Dhankuta,Kosi,Hill,Eastern,Public House Fully Destroyed,929
+Dhankuta,Kosi,Hill,Eastern,Public House Partially Destroyed,1500
+Sankhuwasabha,Kosi,Mountain,Eastern,Total No. of Houses,34624
+Sankhuwasabha,Kosi,Mountain,Eastern,Total Population,158742
+Sankhuwasabha,Kosi,Mountain,Eastern,Dead Male,0
+Sankhuwasabha,Kosi,Mountain,Eastern,Dead Female,0
+Sankhuwasabha,Kosi,Mountain,Eastern,Dead Unknown,0
+Sankhuwasabha,Kosi,Mountain,Eastern,Injured,8
+Sankhuwasabha,Kosi,Mountain,Eastern,Govt. Houses Fully Destroyed,88
+Sankhuwasabha,Kosi,Mountain,Eastern,Govt. Houses Partially Destroyed,208
+Sankhuwasabha,Kosi,Mountain,Eastern,Public House Fully Destroyed,1327
+Sankhuwasabha,Kosi,Mountain,Eastern,Public House Partially Destroyed,3031
+Khotang,Sagarmatha,Hill,Eastern,Total No. of Houses,42664
+Khotang,Sagarmatha,Hill,Eastern,Total Population,206312
+Khotang,Sagarmatha,Hill,Eastern,Dead Male,0
+Khotang,Sagarmatha,Hill,Eastern,Dead Female,0
+Khotang,Sagarmatha,Hill,Eastern,Dead Unknown,0
+Khotang,Sagarmatha,Hill,Eastern,Injured,8
+Khotang,Sagarmatha,Hill,Eastern,Govt. Houses Fully Destroyed,18
+Khotang,Sagarmatha,Hill,Eastern,Govt. Houses Partially Destroyed,55
+Khotang,Sagarmatha,Hill,Eastern,Public House Fully Destroyed,2110
+Khotang,Sagarmatha,Hill,Eastern,Public House Partially Destroyed,4986
+Saptari,Sagarmatha,Terai,Eastern,Total No. of Houses,121098
+Saptari,Sagarmatha,Terai,Eastern,Total Population,639284
+Saptari,Sagarmatha,Terai,Eastern,Dead Male,0
+Saptari,Sagarmatha,Terai,Eastern,Dead Female,0
+Saptari,Sagarmatha,Terai,Eastern,Dead Unknown,0
+Saptari,Sagarmatha,Terai,Eastern,Injured,24
+Saptari,Sagarmatha,Terai,Eastern,Govt. Houses Fully Destroyed,0
+Saptari,Sagarmatha,Terai,Eastern,Govt. Houses Partially Destroyed,28
+Saptari,Sagarmatha,Terai,Eastern,Public House Fully Destroyed,0
+Saptari,Sagarmatha,Terai,Eastern,Public House Partially Destroyed,355
+Rupandehi,Lumbini,Terai,Western,Total No. of Houses,163916
+Rupandehi,Lumbini,Terai,Western,Total Population,880696
+Rupandehi,Lumbini,Terai,Western,Dead Male,0
+Rupandehi,Lumbini,Terai,Western,Dead Female,0
+Rupandehi,Lumbini,Terai,Western,Dead Unknown,0
+Rupandehi,Lumbini,Terai,Western,Injured,39
+Rupandehi,Lumbini,Terai,Western,Govt. Houses Fully Destroyed,1
+Rupandehi,Lumbini,Terai,Western,Govt. Houses Partially Destroyed,17
+Rupandehi,Lumbini,Terai,Western,Public House Fully Destroyed,1
+Rupandehi,Lumbini,Terai,Western,Public House Partially Destroyed,79
+Kapilbastu,Lumbini,Terai,Western,Total No. of Houses,91321
+Kapilbastu,Lumbini,Terai,Western,Total Population,571936
+Kapilbastu,Lumbini,Terai,Western,Dead Male,0
+Kapilbastu,Lumbini,Terai,Western,Dead Female,0
+Kapilbastu,Lumbini,Terai,Western,Dead Unknown,0
+Kapilbastu,Lumbini,Terai,Western,Injured,6
+Kapilbastu,Lumbini,Terai,Western,Govt. Houses Fully Destroyed,0
+Kapilbastu,Lumbini,Terai,Western,Govt. Houses Partially Destroyed,23
+Kapilbastu,Lumbini,Terai,Western,Public House Fully Destroyed,0
+Kapilbastu,Lumbini,Terai,Western,Public House Partially Destroyed,66
+Arghakhanchi,Lumbini,Hill,Western,Total No. of Houses,46835
+Arghakhanchi,Lumbini,Hill,Western,Total Population,197632
+Arghakhanchi,Lumbini,Hill,Western,Dead Male,0
+Arghakhanchi,Lumbini,Hill,Western,Dead Female,0
+Arghakhanchi,Lumbini,Hill,Western,Dead Unknown,0
+Arghakhanchi,Lumbini,Hill,Western,Injured,0
+Arghakhanchi,Lumbini,Hill,Western,Govt. Houses Fully Destroyed,0
+Arghakhanchi,Lumbini,Hill,Western,Govt. Houses Partially Destroyed,8
+Arghakhanchi,Lumbini,Hill,Western,Public House Fully Destroyed,189
+Arghakhanchi,Lumbini,Hill,Western,Public House Partially Destroyed,352
+Syangja,Gandaki,Hill,Western,Total No. of Houses,68881
+Syangja,Gandaki,Hill,Western,Total Population,289148
+Syangja,Gandaki,Hill,Western,Dead Male,0
+Syangja,Gandaki,Hill,Western,Dead Female,0
+Syangja,Gandaki,Hill,Western,Dead Unknown,0
+Syangja,Gandaki,Hill,Western,Injured,24
+Syangja,Gandaki,Hill,Western,Govt. Houses Fully Destroyed,9
+Syangja,Gandaki,Hill,Western,Govt. Houses Partially Destroyed,49
+Syangja,Gandaki,Hill,Western,Public House Fully Destroyed,5003
+Syangja,Gandaki,Hill,Western,Public House Partially Destroyed,11829
+Tanahu,Gandaki,Hill,Western,Total No. of Houses,78309
+Tanahu,Gandaki,Hill,Western,Total Population,323288
+Tanahu,Gandaki,Hill,Western,Dead Male,0
+Tanahu,Gandaki,Hill,Western,Dead Female,0
+Tanahu,Gandaki,Hill,Western,Dead Unknown,0
+Tanahu,Gandaki,Hill,Western,Injured,27
+Tanahu,Gandaki,Hill,Western,Govt. Houses Fully Destroyed,22
+Tanahu,Gandaki,Hill,Western,Govt. Houses Partially Destroyed,54
+Tanahu,Gandaki,Hill,Western,Public House Fully Destroyed,4877
+Tanahu,Gandaki,Hill,Western,Public House Partially Destroyed,14474
+Manang,Gandaki,Mountain,Western,Total No. of Houses,1480
+Manang,Gandaki,Mountain,Western,Total Population,6538
+Manang,Gandaki,Mountain,Western,Dead Male,0
+Manang,Gandaki,Mountain,Western,Dead Female,0
+Manang,Gandaki,Mountain,Western,Dead Unknown,0
+Manang,Gandaki,Mountain,Western,Injured,1
+Manang,Gandaki,Mountain,Western,Govt. Houses Fully Destroyed,8
+Manang,Gandaki,Mountain,Western,Govt. Houses Partially Destroyed,12
+Manang,Gandaki,Mountain,Western,Public House Fully Destroyed,63
+Manang,Gandaki,Mountain,Western,Public House Partially Destroyed,285
+Mustang,Dhawalagiri,Mountain,Western,Total No. of Houses,3354
+Mustang,Dhawalagiri,Mountain,Western,Total Population,13452
+Mustang,Dhawalagiri,Mountain,Western,Dead Male,0
+Mustang,Dhawalagiri,Mountain,Western,Dead Female,0
+Mustang,Dhawalagiri,Mountain,Western,Dead Unknown,0
+Mustang,Dhawalagiri,Mountain,Western,Injured,1
+Mustang,Dhawalagiri,Mountain,Western,Govt. Houses Fully Destroyed,2
+Mustang,Dhawalagiri,Mountain,Western,Govt. Houses Partially Destroyed,19
+Mustang,Dhawalagiri,Mountain,Western,Public House Fully Destroyed,56
+Mustang,Dhawalagiri,Mountain,Western,Public House Partially Destroyed,616
+Myagdi,Dhawalagiri,Hill,Western,Total No. of Houses,27762
+Myagdi,Dhawalagiri,Hill,Western,Total Population,113641
+Myagdi,Dhawalagiri,Hill,Western,Dead Male,0
+Myagdi,Dhawalagiri,Hill,Western,Dead Female,0
+Myagdi,Dhawalagiri,Hill,Western,Dead Unknown,0
+Myagdi,Dhawalagiri,Hill,Western,Injured,11
+Myagdi,Dhawalagiri,Hill,Western,Govt. Houses Fully Destroyed,0
+Myagdi,Dhawalagiri,Hill,Western,Govt. Houses Partially Destroyed,0
+Myagdi,Dhawalagiri,Hill,Western,Public House Fully Destroyed,115
+Myagdi,Dhawalagiri,Hill,Western,Public House Partially Destroyed,1077
+Parbat,Dhawalagiri,Hill,Western,Total No. of Houses,35719
+Parbat,Dhawalagiri,Hill,Western,Total Population,146590
+Parbat,Dhawalagiri,Hill,Western,Dead Male,0
+Parbat,Dhawalagiri,Hill,Western,Dead Female,0
+Parbat,Dhawalagiri,Hill,Western,Dead Unknown,0
+Parbat,Dhawalagiri,Hill,Western,Injured,21
+Parbat,Dhawalagiri,Hill,Western,Govt. Houses Fully Destroyed,12
+Parbat,Dhawalagiri,Hill,Western,Govt. Houses Partially Destroyed,63
+Parbat,Dhawalagiri,Hill,Western,Public House Fully Destroyed,1805
+Parbat,Dhawalagiri,Hill,Western,Public House Partially Destroyed,4169
+Dang,Rapti,Terai,Mid-Western,Total No. of Houses,116415
+Dang,Rapti,Terai,Mid-Western,Total Population,552583
+Dang,Rapti,Terai,Mid-Western,Dead Male,0
+Dang,Rapti,Terai,Mid-Western,Dead Female,0
+Dang,Rapti,Terai,Mid-Western,Dead Unknown,0
+Dang,Rapti,Terai,Mid-Western,Injured,10
+Dang,Rapti,Terai,Mid-Western,Govt. Houses Fully Destroyed,1
+Dang,Rapti,Terai,Mid-Western,Govt. Houses Partially Destroyed,28
+Dang,Rapti,Terai,Mid-Western,Public House Fully Destroyed,7
+Dang,Rapti,Terai,Mid-Western,Public House Partially Destroyed,1080
+Pyuthan,Rapti,Hill,Mid-Western,Total No. of Houses,47730
+Pyuthan,Rapti,Hill,Mid-Western,Total Population,228102
+Pyuthan,Rapti,Hill,Mid-Western,Dead Male,0
+Pyuthan,Rapti,Hill,Mid-Western,Dead Female,0
+Pyuthan,Rapti,Hill,Mid-Western,Dead Unknown,0
+Pyuthan,Rapti,Hill,Mid-Western,Injured,9
+Pyuthan,Rapti,Hill,Mid-Western,Govt. Houses Fully Destroyed,0
+Pyuthan,Rapti,Hill,Mid-Western,Govt. Houses Partially Destroyed,0
+Pyuthan,Rapti,Hill,Mid-Western,Public House Fully Destroyed,3
+Pyuthan,Rapti,Hill,Mid-Western,Public House Partially Destroyed,66
+Salyan,Rapti,Hill,Mid-Western,Total No. of Houses,46556
+Salyan,Rapti,Hill,Mid-Western,Total Population,242444
+Salyan,Rapti,Hill,Mid-Western,Dead Male,0
+Salyan,Rapti,Hill,Mid-Western,Dead Female,0
+Salyan,Rapti,Hill,Mid-Western,Dead Unknown,0
+Salyan,Rapti,Hill,Mid-Western,Injured,2
+Salyan,Rapti,Hill,Mid-Western,Govt. Houses Fully Destroyed,1
+Salyan,Rapti,Hill,Mid-Western,Govt. Houses Partially Destroyed,17
+Salyan,Rapti,Hill,Mid-Western,Public House Fully Destroyed,24
+Salyan,Rapti,Hill,Mid-Western,Public House Partially Destroyed,282
+Dolpa,Karnali,Mountain,Mid-Western,Total No. of Houses,7488
+Dolpa,Karnali,Mountain,Mid-Western,Total Population,36700
+Dolpa,Karnali,Mountain,Mid-Western,Dead Male,0
+Dolpa,Karnali,Mountain,Mid-Western,Dead Female,0
+Dolpa,Karnali,Mountain,Mid-Western,Dead Unknown,0
+Dolpa,Karnali,Mountain,Mid-Western,Injured,0
+Dolpa,Karnali,Mountain,Mid-Western,Govt. Houses Fully Destroyed,0
+Dolpa,Karnali,Mountain,Mid-Western,Govt. Houses Partially Destroyed,0
+Dolpa,Karnali,Mountain,Mid-Western,Public House Fully Destroyed,1
+Dolpa,Karnali,Mountain,Mid-Western,Public House Partially Destroyed,5
+Mugu,Karnali,Mountain,Mid-Western,Total No. of Houses,9619
+Mugu,Karnali,Mountain,Mid-Western,Total Population,55286
+Mugu,Karnali,Mountain,Mid-Western,Dead Male,0
+Mugu,Karnali,Mountain,Mid-Western,Dead Female,0
+Mugu,Karnali,Mountain,Mid-Western,Dead Unknown,0
+Mugu,Karnali,Mountain,Mid-Western,Injured,0
+Mugu,Karnali,Mountain,Mid-Western,Govt. Houses Fully Destroyed,0
+Mugu,Karnali,Mountain,Mid-Western,Govt. Houses Partially Destroyed,0
+Mugu,Karnali,Mountain,Mid-Western,Public House Fully Destroyed,0
+Mugu,Karnali,Mountain,Mid-Western,Public House Partially Destroyed,0
+Humla,Karnali,Mountain,Mid-Western,Total No. of Houses,9479
+Humla,Karnali,Mountain,Mid-Western,Total Population,50858
+Humla,Karnali,Mountain,Mid-Western,Dead Male,0
+Humla,Karnali,Mountain,Mid-Western,Dead Female,0
+Humla,Karnali,Mountain,Mid-Western,Dead Unknown,0
+Humla,Karnali,Mountain,Mid-Western,Injured,0
+Humla,Karnali,Mountain,Mid-Western,Govt. Houses Fully Destroyed,0
+Humla,Karnali,Mountain,Mid-Western,Govt. Houses Partially Destroyed,0
+Humla,Karnali,Mountain,Mid-Western,Public House Fully Destroyed,0
+Humla,Karnali,Mountain,Mid-Western,Public House Partially Destroyed,0
+Jumla,Karnali,Mountain,Mid-Western,Total No. of Houses,19303
+Jumla,Karnali,Mountain,Mid-Western,Total Population,108921
+Jumla,Karnali,Mountain,Mid-Western,Dead Male,0
+Jumla,Karnali,Mountain,Mid-Western,Dead Female,0
+Jumla,Karnali,Mountain,Mid-Western,Dead Unknown,0
+Jumla,Karnali,Mountain,Mid-Western,Injured,2
+Jumla,Karnali,Mountain,Mid-Western,Govt. Houses Fully Destroyed,0
+Jumla,Karnali,Mountain,Mid-Western,Govt. Houses Partially Destroyed,0
+Jumla,Karnali,Mountain,Mid-Western,Public House Fully Destroyed,0
+Jumla,Karnali,Mountain,Mid-Western,Public House Partially Destroyed,2
+Kalikot,Karnali,Mountain,Mid-Western,Total No. of Houses,23013
+Kalikot,Karnali,Mountain,Mid-Western,Total Population,136948
+Kalikot,Karnali,Mountain,Mid-Western,Dead Male,0
+Kalikot,Karnali,Mountain,Mid-Western,Dead Female,0
+Kalikot,Karnali,Mountain,Mid-Western,Dead Unknown,0
+Kalikot,Karnali,Mountain,Mid-Western,Injured,0
+Kalikot,Karnali,Mountain,Mid-Western,Govt. Houses Fully Destroyed,3
+Kalikot,Karnali,Mountain,Mid-Western,Govt. Houses Partially Destroyed,17
+Kalikot,Karnali,Mountain,Mid-Western,Public House Fully Destroyed,4
+Kalikot,Karnali,Mountain,Mid-Western,Public House Partially Destroyed,18
+Jajarkot,Bheri,Hill,Mid-Western,Total No. of Houses,30472
+Jajarkot,Bheri,Hill,Mid-Western,Total Population,171304
+Jajarkot,Bheri,Hill,Mid-Western,Dead Male,0
+Jajarkot,Bheri,Hill,Mid-Western,Dead Female,0
+Jajarkot,Bheri,Hill,Mid-Western,Dead Unknown,0
+Jajarkot,Bheri,Hill,Mid-Western,Injured,3
+Jajarkot,Bheri,Hill,Mid-Western,Govt. Houses Fully Destroyed,0
+Jajarkot,Bheri,Hill,Mid-Western,Govt. Houses Partially Destroyed,8
+Jajarkot,Bheri,Hill,Mid-Western,Public House Fully Destroyed,0
+Jajarkot,Bheri,Hill,Mid-Western,Public House Partially Destroyed,1877
+Dailekh,Bheri,Hill,Mid-Western,Total No. of Houses,48919
+Dailekh,Bheri,Hill,Mid-Western,Total Population,261770
+Dailekh,Bheri,Hill,Mid-Western,Dead Male,0
+Dailekh,Bheri,Hill,Mid-Western,Dead Female,0
+Dailekh,Bheri,Hill,Mid-Western,Dead Unknown,0
+Dailekh,Bheri,Hill,Mid-Western,Injured,1
+Dailekh,Bheri,Hill,Mid-Western,Govt. Houses Fully Destroyed,0
+Dailekh,Bheri,Hill,Mid-Western,Govt. Houses Partially Destroyed,25
+Dailekh,Bheri,Hill,Mid-Western,Public House Fully Destroyed,1
+Dailekh,Bheri,Hill,Mid-Western,Public House Partially Destroyed,216
+Surkhet,Bheri,Hill,Mid-Western,Total No. of Houses,72863
+Surkhet,Bheri,Hill,Mid-Western,Total Population,350804
+Surkhet,Bheri,Hill,Mid-Western,Dead Male,0
+Surkhet,Bheri,Hill,Mid-Western,Dead Female,0
+Surkhet,Bheri,Hill,Mid-Western,Dead Unknown,0
+Surkhet,Bheri,Hill,Mid-Western,Injured,3
+Surkhet,Bheri,Hill,Mid-Western,Govt. Houses Fully Destroyed,0
+Surkhet,Bheri,Hill,Mid-Western,Govt. Houses Partially Destroyed,11
+Surkhet,Bheri,Hill,Mid-Western,Public House Fully Destroyed,1
+Surkhet,Bheri,Hill,Mid-Western,Public House Partially Destroyed,31
+Bardiya,Bheri,Terai,Mid-Western,Total No. of Houses,83176
+Bardiya,Bheri,Terai,Mid-Western,Total Population,426576
+Bardiya,Bheri,Terai,Mid-Western,Dead Male,0
+Bardiya,Bheri,Terai,Mid-Western,Dead Female,0
+Bardiya,Bheri,Terai,Mid-Western,Dead Unknown,0
+Bardiya,Bheri,Terai,Mid-Western,Injured,2
+Bardiya,Bheri,Terai,Mid-Western,Govt. Houses Fully Destroyed,0
+Bardiya,Bheri,Terai,Mid-Western,Govt. Houses Partially Destroyed,0
+Bardiya,Bheri,Terai,Mid-Western,Public House Fully Destroyed,0
+Bardiya,Bheri,Terai,Mid-Western,Public House Partially Destroyed,40
+Banke,Bheri,Terai,Mid-Western,Total No. of Houses,94773
+Banke,Bheri,Terai,Mid-Western,Total Population,491313
+Banke,Bheri,Terai,Mid-Western,Dead Male,0
+Banke,Bheri,Terai,Mid-Western,Dead Female,0
+Banke,Bheri,Terai,Mid-Western,Dead Unknown,0
+Banke,Bheri,Terai,Mid-Western,Injured,1
+Banke,Bheri,Terai,Mid-Western,Govt. Houses Fully Destroyed,0
+Banke,Bheri,Terai,Mid-Western,Govt. Houses Partially Destroyed,0
+Banke,Bheri,Terai,Mid-Western,Public House Fully Destroyed,0
+Banke,Bheri,Terai,Mid-Western,Public House Partially Destroyed,81
+Kailali,Seti,Terai,Far-Western,Total No. of Houses,142480
+Kailali,Seti,Terai,Far-Western,Total Population,775709
+Kailali,Seti,Terai,Far-Western,Dead Male,0
+Kailali,Seti,Terai,Far-Western,Dead Female,0
+Kailali,Seti,Terai,Far-Western,Dead Unknown,0
+Kailali,Seti,Terai,Far-Western,Injured,1
+Kailali,Seti,Terai,Far-Western,Govt. Houses Fully Destroyed,0
+Kailali,Seti,Terai,Far-Western,Govt. Houses Partially Destroyed,5
+Kailali,Seti,Terai,Far-Western,Public House Fully Destroyed,0
+Kailali,Seti,Terai,Far-Western,Public House Partially Destroyed,4
+Doti,Seti,Hill,Far-Western,Total No. of Houses,41440
+Doti,Seti,Hill,Far-Western,Total Population,211746
+Doti,Seti,Hill,Far-Western,Dead Male,0
+Doti,Seti,Hill,Far-Western,Dead Female,0
+Doti,Seti,Hill,Far-Western,Dead Unknown,0
+Doti,Seti,Hill,Far-Western,Injured,0
+Doti,Seti,Hill,Far-Western,Govt. Houses Fully Destroyed,0
+Doti,Seti,Hill,Far-Western,Govt. Houses Partially Destroyed,1
+Doti,Seti,Hill,Far-Western,Public House Fully Destroyed,0
+Doti,Seti,Hill,Far-Western,Public House Partially Destroyed,0
+Achham,Seti,Hill,Far-Western,Total No. of Houses,48351
+Achham,Seti,Hill,Far-Western,Total Population,257477
+Achham,Seti,Hill,Far-Western,Dead Male,0
+Achham,Seti,Hill,Far-Western,Dead Female,0
+Achham,Seti,Hill,Far-Western,Dead Unknown,0
+Achham,Seti,Hill,Far-Western,Injured,0
+Achham,Seti,Hill,Far-Western,Govt. Houses Fully Destroyed,0
+Achham,Seti,Hill,Far-Western,Govt. Houses Partially Destroyed,0
+Achham,Seti,Hill,Far-Western,Public House Fully Destroyed,0
+Achham,Seti,Hill,Far-Western,Public House Partially Destroyed,0
+Bajura,Seti,Mountain,Far-Western,Total No. of Houses,24908
+Bajura,Seti,Mountain,Far-Western,Total Population,134912
+Bajura,Seti,Mountain,Far-Western,Dead Male,0
+Bajura,Seti,Mountain,Far-Western,Dead Female,0
+Bajura,Seti,Mountain,Far-Western,Dead Unknown,0
+Bajura,Seti,Mountain,Far-Western,Injured,0
+Bajura,Seti,Mountain,Far-Western,Govt. Houses Fully Destroyed,0
+Bajura,Seti,Mountain,Far-Western,Govt. Houses Partially Destroyed,0
+Bajura,Seti,Mountain,Far-Western,Public House Fully Destroyed,0
+Bajura,Seti,Mountain,Far-Western,Public House Partially Destroyed,1
+Bajhang,Seti,Mountain,Far-Western,Total No. of Houses,33786
+Bajhang,Seti,Mountain,Far-Western,Total Population,195159
+Bajhang,Seti,Mountain,Far-Western,Dead Male,0
+Bajhang,Seti,Mountain,Far-Western,Dead Female,0
+Bajhang,Seti,Mountain,Far-Western,Dead Unknown,0
+Bajhang,Seti,Mountain,Far-Western,Injured,0
+Bajhang,Seti,Mountain,Far-Western,Govt. Houses Fully Destroyed,0
+Bajhang,Seti,Mountain,Far-Western,Govt. Houses Partially Destroyed,0
+Bajhang,Seti,Mountain,Far-Western,Public House Fully Destroyed,0
+Bajhang,Seti,Mountain,Far-Western,Public House Partially Destroyed,0
+Darchaula,Mahakali,Mountain,Far-Western,Total No. of Houses,24618
+Darchaula,Mahakali,Mountain,Far-Western,Total Population,133274
+Darchaula,Mahakali,Mountain,Far-Western,Dead Male,0
+Darchaula,Mahakali,Mountain,Far-Western,Dead Female,0
+Darchaula,Mahakali,Mountain,Far-Western,Dead Unknown,0
+Darchaula,Mahakali,Mountain,Far-Western,Injured,0
+Darchaula,Mahakali,Mountain,Far-Western,Govt. Houses Fully Destroyed,0
+Darchaula,Mahakali,Mountain,Far-Western,Govt. Houses Partially Destroyed,0
+Darchaula,Mahakali,Mountain,Far-Western,Public House Fully Destroyed,0
+Darchaula,Mahakali,Mountain,Far-Western,Public House Partially Destroyed,0
+Baitadi,Mahakali,Hill,Far-Western,Total No. of Houses,45191
+Baitadi,Mahakali,Hill,Far-Western,Total Population,250898
+Baitadi,Mahakali,Hill,Far-Western,Dead Male,0
+Baitadi,Mahakali,Hill,Far-Western,Dead Female,0
+Baitadi,Mahakali,Hill,Far-Western,Dead Unknown,0
+Baitadi,Mahakali,Hill,Far-Western,Injured,0
+Baitadi,Mahakali,Hill,Far-Western,Govt. Houses Fully Destroyed,0
+Baitadi,Mahakali,Hill,Far-Western,Govt. Houses Partially Destroyed,0
+Baitadi,Mahakali,Hill,Far-Western,Public House Fully Destroyed,0
+Baitadi,Mahakali,Hill,Far-Western,Public House Partially Destroyed,0
+Dadeldhura,Mahakali,Hill,Far-Western,Total No. of Houses,27045
+Dadeldhura,Mahakali,Hill,Far-Western,Total Population,142094
+Dadeldhura,Mahakali,Hill,Far-Western,Dead Male,0
+Dadeldhura,Mahakali,Hill,Far-Western,Dead Female,0
+Dadeldhura,Mahakali,Hill,Far-Western,Dead Unknown,0
+Dadeldhura,Mahakali,Hill,Far-Western,Injured,0
+Dadeldhura,Mahakali,Hill,Far-Western,Govt. Houses Fully Destroyed,0
+Dadeldhura,Mahakali,Hill,Far-Western,Govt. Houses Partially Destroyed,0
+Dadeldhura,Mahakali,Hill,Far-Western,Public House Fully Destroyed,0
+Dadeldhura,Mahakali,Hill,Far-Western,Public House Partially Destroyed,1
+Kanchanpur,Mahakali,Terai,Far-Western,Total No. of Houses,82152
+Kanchanpur,Mahakali,Terai,Far-Western,Total Population,451248
+Kanchanpur,Mahakali,Terai,Far-Western,Dead Male,0
+Kanchanpur,Mahakali,Terai,Far-Western,Dead Female,0
+Kanchanpur,Mahakali,Terai,Far-Western,Dead Unknown,0
+Kanchanpur,Mahakali,Terai,Far-Western,Injured,1
+Kanchanpur,Mahakali,Terai,Far-Western,Govt. Houses Fully Destroyed,0
+Kanchanpur,Mahakali,Terai,Far-Western,Govt. Houses Partially Destroyed,1
+Kanchanpur,Mahakali,Terai,Far-Western,Public House Fully Destroyed,0
+Kanchanpur,Mahakali,Terai,Far-Western,Public House Partially Destroyed,0

@@ -1,120 +1,120 @@
-Region,Year,Impact of Disaster,Affected Number
-Eastern ,2012,Death,52
-Eastern ,2012,Injured,56
-Eastern ,2012,Missing,5
-Hill ,2012,Death,1
-Hill ,2012,Injured,5
-Hill ,2012,Missing,-
-Mountain ,2012,Death,18
-Mountain ,2012,Injured,27
-Mountain ,2012,Missing,5
-Terai ,2012,Death,33
-Terai ,2012,Injured,24
-Terai ,2012,Missing,-
-Central ,2012,Death,146
-Central ,2012,Injured,201
-Central ,2012,Missing,5
-Hill ,2012,Death,116
-Hill ,2012,Injured,163
-Hill ,2012,Missing,4
-Mountain ,2012,Death,13
-Mountain ,2012,Injured,31
-Mountain ,2012,Missing,-
-Terai ,2012,Death,17
-Terai ,2012,Injured,7
-Terai ,2012,Missing,1
-Western ,2012,Death,123
-Western ,2012,Injured,95
-Western ,2012,Missing,35
-Hill ,2012,Death,96
-Hill ,2012,Injured,77
-Hill ,2012,Missing,35
-Mountain ,2012,Death,19
-Mountain ,2012,Injured,7
-Mountain ,2012,Missing,-
-Terai ,2012,Death,8
-Terai ,2012,Injured,11
-Terai ,2012,Missing,-
-Mid Western ,2012,Death,46
-Mid Western ,2012,Injured,76
-Mid Western ,2012,Missing,2
-Hill ,2012,Death,19
-Hill ,2012,Injured,47
-Hill ,2012,Missing,-
-Mountain ,2012,Death,12
-Mountain ,2012,Injured,19
-Mountain ,2012,Missing,People
-Terai ,2012,Death,15
-Terai ,2012,Injured,10
-Terai ,2012,Missing,2
-Far Western ,2012,Death,52
-Far Western ,2012,Injured,62
-Far Western ,2012,Missing,3
-Hill ,2012,Death,26
-Hill ,2012,Injured,38
-Hill ,2012,Missing,-
-Mountain ,2012,Death,11
-Mountain ,2012,Injured,13
-Mountain ,2012,Missing,2
-Terai ,2012,Death,15
-Terai ,2012,Injured,11
-Terai ,2012,Missing,1
-Eastern ,2011,Death,115
-Eastern ,2011,Missing,26
-Eastern ,2011,Injured,119
-Hill ,2011,Death,37
-Hill ,2011,Missing,10
-Hill ,2011,Injured,61
-Mountain ,2011,Death,14
-Mountain ,2011,Missing,3
-Mountain ,2011,Injured,18
-Terai ,2011,Death,64
-Terai ,2011,Missing,13
-Terai ,2011,Injured,40
-Central ,2011,Death,172
-Central ,2011,Missing,20
-Central ,2011,Injured,180
-Hill ,2011,Death,70
-Hill ,2011,Missing,11
-Hill ,2011,Injured,113
-Mountain ,2011,Death,13
-Mountain ,2011,Missing,4
-Mountain ,2011,Injured,11
-Terai ,2011,Death,89
-Terai ,2011,Missing,5
-Terai ,2011,Injured,56
-Western ,2011,Death,86
-Western ,2011,Missing,29
-Western ,2011,Injured,108
-Hill ,2011,Death,63
-Hill ,2011,Missing,16
-Hill ,2011,Injured,92
-Mountain ,2011,Death,2
-Mountain ,2011,Injured,2
-Terai ,2011,Death,21
-Terai ,2011,Missing,13
-Terai ,2011,Injured,14
-Mid Western ,2011,Death,98
-Mid Western ,2011,Missing,47
-Mid Western ,2011,Injured,70
-Hill ,2011,Death,69
-Hill ,2011,Missing,36
-Hill ,2011,Injured,51
-Mountain ,2011,Death,4
-Mountain ,2011,Missing,5
-Mountain ,2011,Injured,8
-Terai ,2011,Death,25
-Terai ,2011,Missing,6
-Terai ,2011,Injured,11
-Far Western ,2011,Death,36
-Far Western ,2011,Missing,15
-Far Western ,2011,Injured,29
-Hill ,2011,Death,14
-Hill ,2011,Missing,6
-Hill ,2011,Injured,9
-Mountain ,2011,Death,7
-Mountain ,2011,Missing,3
-Mountain ,2011,Injured,10
-Terai ,2011,Death,15
-Terai ,2011,Missing,6
-Terai ,2011,Injured,10
+Region,Year AD,Year BS,Impact of Disaster,Affected Number
+Eastern ,2012,2069,Death,52
+Eastern ,2012,2069,Injured,56
+Eastern ,2012,2069,Missing,5
+Hill ,2012,2069,Death,1
+Hill ,2012,2069,Injured,5
+Hill ,2012,2069,Missing,-
+Mountain ,2012,2069,Death,18
+Mountain ,2012,2069,Injured,27
+Mountain ,2012,2069,Missing,5
+Terai ,2012,2069,Death,33
+Terai ,2012,2069,Injured,24
+Terai ,2012,2069,Missing,-
+Central ,2012,2069,Death,146
+Central ,2012,2069,Injured,201
+Central ,2012,2069,Missing,5
+Hill ,2012,2069,Death,116
+Hill ,2012,2069,Injured,163
+Hill ,2012,2069,Missing,4
+Mountain ,2012,2069,Death,13
+Mountain ,2012,2069,Injured,31
+Mountain ,2012,2069,Missing,-
+Terai ,2012,2069,Death,17
+Terai ,2012,2069,Injured,7
+Terai ,2012,2069,Missing,1
+Western ,2012,2069,Death,123
+Western ,2012,2069,Injured,95
+Western ,2012,2069,Missing,35
+Hill ,2012,2069,Death,96
+Hill ,2012,2069,Injured,77
+Hill ,2012,2069,Missing,35
+Mountain ,2012,2069,Death,19
+Mountain ,2012,2069,Injured,7
+Mountain ,2012,2069,Missing,-
+Terai ,2012,2069,Death,8
+Terai ,2012,2069,Injured,11
+Terai ,2012,2069,Missing,-
+Mid Western ,2012,2069,Death,46
+Mid Western ,2012,2069,Injured,76
+Mid Western ,2012,2069,Missing,2
+Hill ,2012,2069,Death,19
+Hill ,2012,2069,Injured,47
+Hill ,2012,2069,Missing,-
+Mountain ,2012,2069,Death,12
+Mountain ,2012,2069,Injured,19
+Mountain ,2012,2069,Missing,People
+Terai ,2012,2069,Death,15
+Terai ,2012,2069,Injured,10
+Terai ,2012,2069,Missing,2
+Far Western ,2012,2069,Death,52
+Far Western ,2012,2069,Injured,62
+Far Western ,2012,2069,Missing,3
+Hill ,2012,2069,Death,26
+Hill ,2012,2069,Injured,38
+Hill ,2012,2069,Missing,-
+Mountain ,2012,2069,Death,11
+Mountain ,2012,2069,Injured,13
+Mountain ,2012,2069,Missing,2
+Terai ,2012,2069,Death,15
+Terai ,2012,2069,Injured,11
+Terai ,2012,2069,Missing,1
+Eastern ,2011,2068,Death,115
+Eastern ,2011,2068,Missing,26
+Eastern ,2011,2068,Injured,119
+Hill ,2011,2068,Death,37
+Hill ,2011,2068,Missing,10
+Hill ,2011,2068,Injured,61
+Mountain ,2011,2068,Death,14
+Mountain ,2011,2068,Missing,3
+Mountain ,2011,2068,Injured,18
+Terai ,2011,2068,Death,64
+Terai ,2011,2068,Missing,13
+Terai ,2011,2068,Injured,40
+Central ,2011,2068,Death,172
+Central ,2011,2068,Missing,20
+Central ,2011,2068,Injured,180
+Hill ,2011,2068,Death,70
+Hill ,2011,2068,Missing,11
+Hill ,2011,2068,Injured,113
+Mountain ,2011,2068,Death,13
+Mountain ,2011,2068,Missing,4
+Mountain ,2011,2068,Injured,11
+Terai ,2011,2068,Death,89
+Terai ,2011,2068,Missing,5
+Terai ,2011,2068,Injured,56
+Western ,2011,2068,Death,86
+Western ,2011,2068,Missing,29
+Western ,2011,2068,Injured,108
+Hill ,2011,2068,Death,63
+Hill ,2011,2068,Missing,16
+Hill ,2011,2068,Injured,92
+Mountain ,2011,2068,Death,2
+Mountain ,2011,2068,Injured,2
+Terai ,2011,2068,Death,21
+Terai ,2011,2068,Missing,13
+Terai ,2011,2068,Injured,14
+Mid Western ,2011,2068,Death,98
+Mid Western ,2011,2068,Missing,47
+Mid Western ,2011,2068,Injured,70
+Hill ,2011,2068,Death,69
+Hill ,2011,2068,Missing,36
+Hill ,2011,2068,Injured,51
+Mountain ,2011,2068,Death,4
+Mountain ,2011,2068,Missing,5
+Mountain ,2011,2068,Injured,8
+Terai ,2011,2068,Death,25
+Terai ,2011,2068,Missing,6
+Terai ,2011,2068,Injured,11
+Far Western ,2011,2068,Death,36
+Far Western ,2011,2068,Missing,15
+Far Western ,2011,2068,Injured,29
+Hill ,2011,2068,Death,14
+Hill ,2011,2068,Missing,6
+Hill ,2011,2068,Injured,9
+Mountain ,2011,2068,Death,7
+Mountain ,2011,2068,Missing,3
+Mountain ,2011,2068,Injured,10
+Terai ,2011,2068,Death,15
+Terai ,2011,2068,Missing,6
+Terai ,2011,2068,Injured,10
